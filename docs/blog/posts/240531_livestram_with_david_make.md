@@ -5,56 +5,55 @@ authors:
 categories:
   - Updates
 ---
+# 与 MAKE: 杂志的 David Groom 进行轻松聊天：Openterface Mini-KVM 的故事
 
-# Casual Chat with David Groom from MAKE: Magazine: The Story of Openterface Mini-KVM
+大家好！
 
-Hi everyone!
-
-We just wrapped up an awesome [YouTube livestream](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) with David Groom from MAKE: Magazine! During the session, we delved into the story behind our Openterface Mini-KVM, an innovative open-source hardware solution designed to effortlessly control headless devices and single-board computers like Raspberry Pis using just your laptop. You can check out the YouTube livestream for more details or simply read the story below.
+我们刚刚结束了一场与 MAKE: 杂志的 David Groom 的精彩 [YouTube 直播](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1)。在直播中，我们深入探讨了 Openterface Mini-KVM 背后的故事，这是一款创新的开源硬件解决方案，旨在让你只用笔记本电脑就能轻松控制无头设备和单板计算机（如树莓派）。你可以查看 YouTube 直播了解更多详情，或者继续阅读下文。
 
 ![youtube-with-david-2](https://www.crowdsupply.com/img/2b83/081f1376-b266-4e83-b1af-5628dbe62b83/youtube-with-david_jpg_gallery-lg.jpg)
 
-## The Birth of an Idea
+## 想法的诞生
 
-The journey of the Mini-KVM began in the bustling city of Guangzhou, China, within our TechxArtisan studio. Over the past five years, we have been deeply involved in numerous tech art projects for local and international artists. Our work includes constructing interactive lighting installations with AI detection, robotic arms for theatre performances, self-driving mini cars that solve random mazes, and even a robot dog designed to explore no man's lands like deserts and forests.
+Mini-KVM 的旅程始于中国广州繁忙的 TechxArtisan 工作室。过去五年里，我们深度参与了许多本地和国际艺术家的科技艺术项目。我们的工作包括构建带有 AI 检测的互动照明装置、用于戏剧表演的机械臂、解决随机迷宫的自动驾驶迷你车，甚至还有探索无人区（如沙漠和森林）的机器人狗。
 
 ![techxartisan_tech_art](https://www.crowdsupply.com/img/bce8/9c580077-993a-42b2-b781-a30d34acbce8/techxartisan-tech-art_jpg_gallery-lg.jpg)
 
-### A Common Headache
-A recurring challenge in our work was managing a plethora of headless computers like Raspberry Pis and Jetson Nanos, which lacked monitors, keyboards, or network connectivity. This often led to frantic searches for spare monitors and keyboards to troubleshoot and access these devices in harsh conditions.
+### 常见的头疼问题
+在我们的工作中，经常遇到管理大量无头计算机（如树莓派和 Jetson Nano）的挑战，这些设备没有显示器、键盘或网络连接。这常常导致我们在恶劣条件下疯狂寻找备用显示器和键盘来排查和访问这些设备。
 
-### Makeshift Solutions
-Initially, we resorted to makeshift portable monitor solutions powered by battery packs and wireless mini-keyboards with touchpads. However, these were often forgotten or misplaced, prompting the need for a dedicated hardware solution that could leverage the laptops we always carried for coding and setup.
+### 临时解决方案
+最初，我们使用由电池供电的便携式显示器和带触摸板的无线迷你键盘作为临时解决方案。然而，这些设备经常被遗忘或丢失，促使我们需要一个专用的硬件解决方案，利用我们随身携带的笔记本电脑进行编码和设置。
 
 ![diy-monitor-keyboard](https://www.crowdsupply.com/img/2efd/4459eff9-2d01-4552-ac91-a1941ed82efd/diy-monitor-keyboard_jpg_gallery-lg.jpg)
-*These two gadgets must be carried for on-site projects.*
+*这些小工具必须随身携带以便现场项目使用。*
 
-### The First Prototype
-Our first DIY prototype was a simple yet effective combination of a capture card to retrieve video from the headless device and a USB keyboard/mouse simulator, all integrated into a single USB cable connecting to our laptops. 
+### 第一个原型
+我们的第一个 DIY 原型是一个简单而有效的组合，包括一个捕捉卡来获取无头设备的视频信号和一个 USB 键盘/鼠标模拟器，所有这些都集成在一根 USB 线缆中，连接到我们的笔记本电脑。
 
 ![/early-mini-kvm-pcb](https://www.crowdsupply.com/img/1f7e/fb91d879-dee7-45cc-bbdc-dc3ea5731f7e/early-mini-kvm-pcb_jpg_gallery-lg.jpg)
-*One of the early versions of the mini-KVM PCB*
+*早期版本的 mini-KVM PCB*
 
-We showcased our cool tech art projects at the Shenzhen Maker Faire in November 2023, intending to show off the mini-KVM prototype to David. However, we got so excited about the gifts from David and forgot it!
+我们在 2023 年 11 月的深圳 Maker Faire 上展示了我们的酷炫科技艺术项目，打算向 David 展示 mini-KVM 原型。然而，我们对 David 送的礼物太兴奋了，竟然忘了展示！
 
 ![techxartisan_team_with_david_groom](https://www.crowdsupply.com/img/bc4e/17bdcc6e-0a34-4f2f-bf64-fee0b8d6bc4e/techxartisan-team-with-david-groom_jpg_gallery-lg.jpg)
-*Stickers and postcards from MAKE: Magazine are seriously cool!*
+*MAKE: 杂志的贴纸和明信片真的很酷！*
 
-## Community Feedback and Development
-After sharing our prototype on Reddit, we received invaluable feedback from [the community](http://openterface.com/community/#community-contributors), encouraging us to refine and develop our solution into a polished product. This community support was instrumental in transforming our makeshift device into a sleek, efficient tool for homelabbers, sysadmins, tech enthusiasts, and anyone working with headless computers.
+## 社区反馈和开发
+在 Reddit 上分享我们的原型后，我们收到了来自 [社区](http://openterface.com/community/#community-contributors) 的宝贵反馈，鼓励我们将解决方案打磨成一个完善的产品。这种社区支持对将我们的临时设备转变为一个精致、高效的工具起到了关键作用，适合家庭实验室爱好者、系统管理员、技术爱好者以及任何使用无头计算机的人。
 
 ![got_feedback_from_reddit](https://www.crowdsupply.com/img/b24b/e04dfa15-1e5b-4bfb-b97c-acdba784b24b/got-feedback-from-reddit_jpg_gallery-lg.jpg)
-*Received a super amount of feedback from homelabbers*
+*从家庭实验室爱好者那里收到了大量反馈*
 
-## Overcoming Doubts
-Despite initial doubts about competing with existing similar solutions, the positive response and constructive suggestions from online communities helped clarify potential use cases and boosted our confidence. Without this support and affirmation of our efforts, we might not have pursued the project further.
+## 克服疑虑
+尽管最初对与现有类似解决方案竞争存在疑虑，但来自在线社区的积极回应和建设性建议帮助我们明确了潜在的使用场景，并增强了我们的信心。如果没有这种支持和对我们努力的肯定，我们可能不会继续推进这个项目。
 
-## Crowdfunding and Future Plans
-The crowdfunding campaign for the Openterface Mini-KVM on Crowd Supply is picking up serious steam, with about two weeks left to go. This campaign isn't just about developing the Mini-KVM; it's a testament to the power of community-driven innovation. Next up, we'll dive into production management, software improvements, and getting this handy gadget delivered to our awesome backers—all powered by our amazing open-source community.
+## 众筹和未来计划
+Openterface Mini-KVM 在 Crowd Supply 上的众筹活动正在迅速升温，距离结束还有大约两周时间。这次众筹不仅仅是为了开发 Mini-KVM，它也是社区驱动创新力量的见证。接下来，我们将深入生产管理、软件改进，并将这个方便的小工具交付给我们出色的支持者——这一切都得益于我们了不起的开源社区。
 
 ![techxartisan_openterface_discord](https://www.crowdsupply.com/img/8d7a/58e213e7-7a81-47b4-9d6b-69be3c698d7a/techxartisan-openterface-discord_jpg_gallery-lg.jpg)
-*Beta testers are sharing their use of the Openterface Mini-KVM in their daily tech tasks on TechxArtisan's Discord*
+*Beta 测试者在 TechxArtisan 的 Discord 上分享他们在日常技术任务中使用 Openterface Mini-KVM 的情况*
 
-## Embracing the Open-Source Vision
+## 拥抱开源愿景
 
-The Openterface Mini-KVM is a testament to our creativity and perseverance, and the supportive open-source community. What began as a simple solution for our personal challenges has evolved into a versatile, open-source tool poised to benefit hackers, tinkerers, and tech enthusiasts worldwide. Stay tuned for more updates as the Mini-KVM moves closer to its official release!
+Openterface Mini-KVM 是我们创造力和毅力的见证，也是支持我们的开源社区的见证。最初只是为了解决我们个人挑战的简单解决方案，现在已经发展成为一个多功能的开源工具，准备惠及全球的黑客、修补匠和技术爱好者。请继续关注更多更新，因为 Mini-KVM 正在逐步接近正式发布。

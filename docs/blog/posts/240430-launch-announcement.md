@@ -6,47 +6,45 @@ categories:
   - Updates
 ---
 
-# Openterface Mini-KVM Crowdfunding Campaign Goes Live NOW!
+# Openterface Mini-KVM 众筹活动现已上线！
 
-We're excited to announce that the crowdfunding campaign for the Openterface Mini-KVM is now live! This feature-rich, open-source, and community-driven device simplifies the way you control and interact with headless computers.
+我们很高兴地宣布，Openterface Mini-KVM 的众筹活动现已上线！这款功能丰富、开源且由社区驱动的设备简化了您控制和操作无头计算机的方式。
 
-It offers a compact, lightweight, and speedy KVM-over-USB solution that eliminates the need for additional keyboards, mice, monitors, or network configuration. You can control a headless computer directly from your laptop or desktop computer, simplifying your setup and enhancing your workflow.
+它提供了一种紧凑、轻便且快速的 KVM-over-USB 解决方案，无需额外的键盘、鼠标、显示器或网络配置。您可以直接从笔记本电脑或台式电脑控制无头计算机，简化您的设置并提升工作效率。
 
-Join us in making your tech life easier!
+加入我们，让您的科技生活更轻松！
 
 ![openterface-mini-kvm-wired-up-mini-kvm-angled-view](https://www.crowdsupply.com/img/418f/c93dc838-7dbf-4281-b6e0-16f1bee6418f/openterface-mini-kvm-wired-up-mini-kvm-angled-view_jpg_gallery-lg.jpg)
 
-### A Versatile Tool for Various On-the-Go Needs
+### 多功能的随身工具
 
-The Openterface Mini-KVM is the perfect companion for a wide range of users and scenarios:
+Openterface Mini-KVM 是各种用户和场景的完美伴侣：
 
-- IT professionals troubleshooting servers
-- Technicians servicing ATMs, VLTs, and kiosks
-- Developers managing edge computing devices
-- Tech enthusiasts experimenting with single-board computers
-- Professionals requiring secure local operations on network segregation, such as those managing cryptocurrency assets
-- Anyone in need of frequently integrated workflows between personal and work computers.
+- 服务器故障排除的 IT 专业人员
+- 维护 ATM、VLT 和自助终端的技术人员
+- 管理边缘计算设备的开发人员
+- 试验单板计算机的科技爱好者
+- 需要在网络隔离中进行安全本地操作的专业人士，例如管理加密货币资产
+- 需要在个人和工作电脑之间频繁集成工作流程的任何人。
 
 ![use-case-pc-angled-view](https://www.crowdsupply.com/img/4003/335f6301-8abd-4efd-9803-9c6f8c6d4003/use-case-pc-angled-view_jpg_gallery-lg.jpg)
 
-### Driven by Community Feedback
+### 由社区反馈驱动
 
-Our venture into the creation of the Openterface Mini-KVM was sparked by our own challenges and a collective desire for a more effective tool. With a history rich in our [TechxArtisan studio](https://techxartisan.com/en/) developing cool tech art projects and outdoor IoT solutions, we often faced the dilemma of managing devices in unreliable network conditions without the luxury of carrying extra equipment. Fueled by conversations with peers and feedback from a community sharing our plight, we set out to craft a device that addresses these needs head-on, facilitating the control of headless devices reliably and effortlessly.
+我们创建 Openterface Mini-KVM 的动机源于我们自身的挑战和对更有效工具的集体渴望。我们在 [TechxArtisan 工作室](https://techxartisan.com/en/) 开发酷炫的科技艺术项目和户外物联网解决方案的丰富历史中，经常面临在不可靠的网络条件下管理设备的难题，而无法携带额外设备。通过与同行的对话和来自社区的反馈，我们着手打造一款能够可靠且轻松控制无头设备的工具。
 
-### The Openterface Mini-KVM Difference
+### Openterface Mini-KVM 的独特之处
 
-You might wonder, with various KVM solutions available, why choose the Openterface Mini-KVM? Here's why:
+您可能会问，市场上有各种 KVM 解决方案，为什么选择 Openterface Mini-KVM？原因如下：
 
-1. **Compact and Efficient**: Tailored for both IT professionals and enthusiasts, our KVM-over-USB solution shines in environments with limited or no network access, offering a portable, network-independent, and swift troubleshooting tool.
+1. **紧凑高效**：为 IT 专业人员和爱好者量身定制，我们的 KVM-over-USB 解决方案在网络访问有限或没有网络的环境中表现出色，提供便携、独立于网络且快速的故障排除工具。
     
-2. **Affordability**: We've worked hard to make the Openterface Mini-KVM more cost-effective than its counterparts, ensuring it's within reach for everyone who needs this essential tool for work or hobby projects.
+2. **经济实惠**：我们努力使 Openterface Mini-KVM 比同类产品更具成本效益，确保每个需要这款重要工具用于工作或爱好项目的人都能负担得起。
     
-3. **Community-Driven and Open-Source**: At its core, the Openterface Mini-KVM is about fostering a community of innovation and collaboration. By embracing open-source values, we invite users to contribute custom features and enhancements, enriching the tool's capabilities and versatility.
+3. **社区驱动和开源**：Openterface Mini-KVM 的核心是促进创新和协作的社区。通过拥抱开源价值观，我们邀请用户贡献自定义功能和增强功能，丰富工具的功能和多样性。
 
-### Stay Connected and Involved
+### 保持联系和参与
 
-To stay up-to-date with the latest developments, receive technical support, and connect with fellow users, we invite you to visit our [Pre-Launch page](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) on Crowd Supply, explore our website at [openterface.com](/), and join our subreddit [r/Openterface_miniKVM](/reddit) and Discord communities [TechxArtisan](https://discord.com/invite/4khsrbGS).
+要了解最新进展、获得技术支持并与其他用户联系，我们邀请您访问我们在 Crowd Supply 上的 [预发布页面](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)，浏览我们的网站 [openterface.com](/)，并加入我们的 subreddit [r/Openterface_miniKVM](/reddit) 和 Discord 社区 [TechxArtisan](https://discord.com/invite/4khsrbGS)。
 
-Let's embark on this exciting journey together and revolutionize the way you control headless devices. Join us in making the Openterface Mini-KVM a reality! 
-
-Cheers!
+让我们一起踏上这段激动人心的旅程，革新您控制无头设备的方式。加入我们，让 Openterface Mini-KVM 成为现实！

@@ -6,9 +6,9 @@ categories:
   - Updates
 ---
 
-# Up for a DIY Challenge? Catch us at OSHWA’s Show & Tell!
+# 想挑战DIY吗？来参加OSHWA的展示会吧！
 
 ![poster-1](pic/241001-1.jpeg){:style="width:380px"}
 ![poster-2](pic/241001-2.jpg){:style="width:380px"}
 
-Hi folks, I’ll be introducing the USB KVM DIY Challenge 2024 during OSHWA’s Show & Tell at 10:40 PM EST on Oct. 2. If you're interested, don’t forget to join in! Thx!
+大家好，我将在10月2日晚上10:40（美国东部时间）于OSHWA的展示会上介绍2024年USB KVM DIY挑战赛。如果你感兴趣，别忘了加入我们！谢谢！

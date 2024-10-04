@@ -6,101 +6,101 @@ categories:
   - Updates
 ---
 
-# Overcoming Hurdles: Progress Update & New Timeline
+# 克服障碍：进展更新与新时间表
 
-Hey everyone,
+大家好，
 
-I hope you’re all doing well. It’s been a while since our last update. I wish I could say everything’s been smooth sailing for Openterface, but we’ve hit a couple of speed bumps that will delay our delivery timeline. While this wasn’t what we expected, we’re tackling these challenges head-on and making steady progress with plenty of good news to share. This post is about **a 7-minute read**, so let’s dive into the details so you know exactly where things stand and what’s coming next.
+希望大家一切都好。自从上次更新以来已经有一段时间了。我本希望能告诉大家一切顺利，但实际上我们遇到了一些问题，导致交付时间有所延迟。虽然这不是我们预期的情况，但我们正在积极应对这些挑战，并取得了稳步进展，有很多好消息要分享。这篇文章大约需要7分钟阅读时间，让我们详细了解一下目前的情况和接下来的计划。
 
-## Regulation, Production, and Quality
+## 认证、生产和质量
 
-Before we could kick off production, we had to pass necessary quality tests according to regulations, particularly CE certification. Since our toolkit version includes not just the Mini-KVM but also several accessories, each part needed to undergo CE testing. These tests took longer than expected (turns out cables can be quite picky), but the great news is that **we’ve passed CE for our Mini-KVM and all its components!** Below is an overview of the certifications for all our parts: Mini-KVM, HDMI cable, orange Type-C cable, black short Type-C cable, and VGA2HDMI cable. With certification in hand, our production timeline is now certain, and our manufacturers are **currently producing all parts** as I speak.
+在开始生产之前，我们必须通过必要的质量测试，特别是CE认证。由于我们的工具包版本不仅包括Mini-KVM，还包括多个配件，每个部分都需要进行CE测试。这些测试比预期的时间更长（原来电缆也会很挑剔），但好消息是**我们的Mini-KVM及其所有组件都通过了CE认证！** 下面是所有部件的认证概览：Mini-KVM、HDMI电缆、橙色Type-C电缆、黑色短Type-C电缆和VGA转HDMI电缆。有了认证，我们的生产时间表现在已经确定，制造商**正在生产所有部件**。
 
 ![240823-0](pic/240823-0.jpg)
-*UKCA and CE requirements are the same for our electronic products, with CE also covering RoHS compliance.*
+*我们的电子产品符合UKCA和CE要求，CE还涵盖RoHS合规性。*
 
-Two weeks ago, we visited one of our manufacturers to train their line managers on quality control for the orange cables before they shipped them to us. Now, ALL the orange cables have been produced and are sitting in a corner of our studio.
+两周前，我们拜访了一家制造商，培训他们的生产线经理如何进行橙色电缆的质量控制，现在，所有的橙色电缆都已经生产完毕，堆放在我们工作室的一角。
 ![240823-1](pic/240823-1.jpg)
-*Kevin and Shawn were explaining the testing methods to ensure the orange cable works properly with our Openterface Mini-KVM.*
+*Kevin和Shawn正在解释测试方法，以确保橙色电缆能正常工作。*
 
-We will do the same task in this week to train QA at the production frontline for other parts as well. Here are samples of additional cables.
+本周我们将对其他部件进行同样的质量培训。以下是其他电缆的样品。
 ![240823-2](pic/240823-2.jpg)
-*Proudly marked with our TechxArtisan logo, these are samples of the HDMI cable, the short Type-C cable, and the VGA-to-HDMI cable.*
+*这些是带有我们TechxArtisan标志的HDMI电缆、短Type-C电缆和VGA转HDMI电缆样品。*
 
-We’re expecting the other parts and Mini-KVMs to arrive soon from our manufacturers, at which point we’ll double-check the quality of every component and pack them properly at our studio before shipment. In other words, **our team will personally ensure the quality** before it reaches your hands.
+我们预计其他部件和Mini-KVM很快就会从制造商那里到达，到时候我们会在工作室对每个组件进行质量检查并妥善包装。换句话说，**我们的团队将亲自确保质量**，然后再交到你们手中。
 
-## Shipment, Potential Delays, and New ETA
+## 发货、潜在延误和新的预计到货时间
 
-**The current uncertainty lies in the shipment process**. After investigating several shipping companies, we found that shipping will take extra time as we will likely transfer parcels through a warehouse before reaching Crowd Supply’s warehouse. We’re still debating whether to choose sea or air freight—please bear with us for a few more days while we sort out the arrangements.
+**目前的不确定性在于发货过程**。在调查了几家运输公司后，我们发现运输可能需要额外的时间，因为我们可能会通过一个仓库中转再到Crowd Supply的仓库。我们还在讨论是选择海运还是空运——请再耐心等待几天，我们会尽快安排好。
 
-Customs clearance is another potential hurdle that might cause unexpected delays. Once our products arrive at Crowd Supply's warehouse in the US, they’ll take one to two weeks to ship out globally based on each order. For backers outside the US, individual parcels will still need to go through global shipping and customs clearance in the destination country.
+清关是另一个可能导致意外延误的因素。一旦我们的产品到达美国的Crowd Supply仓库，他们会在一到两周内根据每个订单进行全球发货。对于美国以外的支持者，包裹还需要经过目的国的全球运输和清关。
 
-Accounting for the current situation and adding some buffer time, I remain cautiously optimistic that we’ll complete delivery before the end of this year, with **a new ETA of mid-January**. I’m truly sorry for the inconvenience and appreciate your support and patience during this change.
+考虑到目前的情况并增加一些缓冲时间，我谨慎乐观地认为我们将在今年年底前完成交付，**新的预计到货时间是明年一月中旬**。对于带来的不便，我深感抱歉，感谢大家在这一变化中的支持和耐心。
 
-## Finalised Hardware V1.9
+## 硬件V1.9定型
 
-As you may know from our previous [Reddit post](https://www.reddit.com/r/Openterface_miniKVM/comments/1e25pco/openterface_minikvm_v19_with_pins_for_more/), we decided to **upgrade our hardware to V1.9**, including a set of hackable expansion pins. This wasn’t part of the original plan for the crowdfunding campaign, but we believe it significantly enhances the hardware’s **potential for broader use**.
+正如你们从我们之前的[Reddit帖子](https://www.reddit.com/r/Openterface_miniKVM/comments/1e25pco/openterface_minikvm_v19_with_pins_for_more/)中所知，我们决定**将硬件升级到V1.9**，包括一组可扩展的引脚。这并不是众筹活动的原计划，但我们认为这大大增强了硬件的**广泛使用潜力**。
 
 ![240823-3](pic/240823-3.jpg)
-*The VCC, GND, Target D+, Target D-, Host D+, and Host D- pins—where ‘D’ stands for USB data.*
+*VCC、GND、Target D+、Target D-、Host D+和Host D-引脚——‘D’代表USB数据。*
 
-One key motivation was to enable **the USB switch to be toggled at the software level**. Why is this important? On our roadmap, we **aim to support a KVM-over-IP solution**, such as VNC, in the future. The idea is to match local KVM control with the VNC protocol, allowing users to remotely control the target computer via the host computer. In such a remote scenario, the ability for users to switch the USB port is essential, especially when file transfers between the host and target are required.
+一个关键动机是实现**在软件层面切换USB开关**。为什么这很重要？在我们的路线图上，我们**计划支持KVM-over-IP解决方案**，例如VNC。我们的想法是将本地KVM控制与VNC协议匹配，使用户能够通过主机远程控制目标计算机。在这种远程场景中，用户切换USB端口的能力至关重要，特别是在需要在主机和目标之间传输文件时。
 
-**The expansion pins also open up possibilities for more**, like integrating with iPadOS, ATX control, network bridging, and audio bypass. While I won’t dive into all the details here, I encourage you to join our Openterface community to discuss with us further.
+**这些扩展引脚还为更多可能性打开了大门**，例如与iPadOS集成、ATX控制、网络桥接和音频旁路。虽然我不会在这里详细介绍所有细节，但我鼓励你加入我们的Openterface社区，与我们进一步讨论。
 
-This hardware upgrade could potentially extend our Openterface solution to operate over IP and include more advanced features while still maintaining its core strength as a plug-and-play KVM-over-USB tool—perfect for IT pros navigating uncertain IT environments, like unfamiliar data centres.
+这次硬件升级可能会将我们的Openterface解决方案扩展到IP操作，并包括更多高级功能，同时仍然保持其作为即插即用KVM-over-USB工具的核心优势——非常适合在不熟悉的数据中心等不确定IT环境中工作的IT专业人员。
 
-I’m happy to report that V1.9 has passed our internal basic tests and will be finalised as the official version for all our backers. However, this hardware upgrade will require further testing, and any development based on these expansion pins will be experimental and likely to have bugs. This is where you can contribute. We’re counting on the open-source community to help us improve Openterface together.
+我很高兴地报告，V1.9已经通过了我们的内部基本测试，并将作为所有支持者的正式版本。然而，这次硬件升级需要进一步测试，基于这些扩展引脚的任何开发都将是实验性的，可能会有bug。这就是你们可以贡献的地方。我们依靠开源社区的帮助，共同改进Openterface。
 
-## More Software Updates
+## 更多软件更新
 
-On the software front, we’re making exciting strides. We’re diving into the **Openterface Android app** now! Check out this [tweet](https://x.com/TechxArtisan/status/1825460088922071398) for an early demo showing smooth KVM control, mouse movement, and clicks in action. More features are on the way, and as always, once we’ve polished the code a bit more, **this app will also be open-sourced** on our GitHub repo [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android).
+在软件方面，我们正在取得令人兴奋的进展。我们现在正在开发**Openterface Android应用**！请查看这条[tweet](https://x.com/TechxArtisan/status/1825460088922071398)，了解早期演示，展示了流畅的KVM控制、鼠标移动和点击操作。更多功能即将推出，和往常一样，一旦我们进一步完善代码，**这个应用也将开源**在我们的GitHub仓库[Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android)。
 ![240823-4](pic/240823-4.jpg)
-*Using just our fingertips to KVM control a Linux computer from an Android tablet. Nice!*
+*只用我们的指尖就能从Android平板电脑上KVM控制一台Linux计算机。很棒吧！*
 
-Our QT version just got a handy update—you can now [transfer text from the host to the target](https://x.com/TechxArtisan/status/1825919721960780131)! So now this feature is supported on macOS, Windows, and Linux host apps.
+我们的QT版本刚刚进行了一个实用的更新——你现在可以[从主机向目标传输文本](https://x.com/TechxArtisan/status/1825919721960780131)！所以现在这个功能在macOS、Windows和Linux主机应用上都支持了。
 
-Moreover, We’re also planning to add a fun feature — [an auto mouse movement to prevent your target computer from sleeping](https://x.com/TechxArtisan/status/1825471186668847241). Should we go with the ping-pong ball bouncing around the screen or the classic DVD screensaver effect? Vote and comment the [tweet](https://x.com/TechxArtisan/status/1825470086800691459) 😃
+此外，我们还计划添加一个有趣的功能——[自动鼠标移动以防止目标计算机进入睡眠状态](https://x.com/TechxArtisan/status/1825471186668847241)。我们应该选择乒乓球在屏幕上弹跳还是经典的DVD屏保效果？请在[tweet](https://x.com/TechxArtisan/status/1825470086800691459)中投票和评论 😃
 
-## Package Design, Labelling, and Manual
+## 包装设计、标签和手册
 
-We’ve been [experimenting with various mock-ups and packaging designs](https://www.reddit.com/r/Openterface_miniKVM/comments/1elm4vq/almost_ready_to_finalize_our_package_design/) to find the perfect balance among several key factors:
+我们一直在[尝试各种模型和包装设计](https://www.reddit.com/r/Openterface_miniKVM/comments/1elm4vq/almost_ready_to_finalize_our_package_design/)，以找到在几个关键因素之间的完美平衡：
 
-- Selecting materials sturdy enough to protect the product and its parts during shipment,
-- Creating informative labelling that helps users understand the product at a glance,
-- Ensuring compliance with regulations,
-- Making the packaging visually appealing,
-- And being eco-friendly by minimising plastic use wherever possible.
+- 选择足够坚固的材料，以在运输过程中保护产品及其部件，
+- 创建有助于用户一目了然了解产品的信息标签，
+- 确保符合法规，
+- 使包装具有视觉吸引力，
+- 并尽量减少塑料使用，做到环保。
 
-Additionally, we’ve made several improvements to the old toolkit bag, including:
+此外，我们对旧的工具包进行了多项改进，包括：
 
-- Larger storage space,
-- A stylish orange zipper,
-- Upgraded exterior and interior materials,
-- And a super stretchy mesh pocket.
+- 更大的存储空间，
+- 时尚的橙色拉链，
+- 升级的外部和内部材料，
+- 以及一个超级有弹性的网袋。
 
-We chose this material because it strikes the ideal balance between being budget-friendly, pleasant to the touch, and durable enough to protect the items inside. **We’re confident you’ll love it**.
+我们选择这种材料是因为它在预算友好、触感舒适和足够耐用以保护内部物品之间达到了理想的平衡。**我们相信你会喜欢它**。
 
 ![240823-5](pic/240823-5.jpg)
 
-We’re also updating the labels on the aluminium casing to make them as informative and visually appealing as possible. We hope these enhancements will improve your user experience and make it easier to get started with Openterface.
+我们还在更新铝制外壳上的标签，使其尽可能信息丰富和视觉吸引力。我们希望这些改进能提升你的用户体验，让你更容易上手Openterface。
 
 ![240823-6](pic/240823-6.jpg)
 
-We’re finalising the Openterface manual, which will be available in English, German, French, Japanese, and Chinese. Apologies if we missed your language—our box isn’t TARDIS-sized (Doctor Who’s police box)! But we’ll do our best to add more translations on our website.
+我们正在最终确定Openterface手册，它将提供英语、德语、法语、日语和中文版本。如果我们没有提供你的语言版本，请见谅——我们的盒子不是TARDIS（神秘博士的警察电话亭）那么大！但我们会尽力在我们的网站上添加更多翻译。
 
 ![240823-7](pic/240823-7.jpg)
 
-## Community Language Review
+## 社区语言审查
 
-I’ve been using ChatGPT to assist with translations, but it can sometimes miss the mark with phrasing and wording. If it’s not too much trouble, I’d greatly appreciate any help in reviewing the content in other languages, especially for the printed materials we’re about to finalise. I’ve updated all the text content for the packaging in our GitHub folder [product-printed-materials](https://github.com/TechxArtisanStudio/Openterface/tree/main/product-printed-materials), where you can review and submit any improvements. You can also DM me directly. Thanks!
+我一直在使用ChatGPT来协助翻译，但有时它在措辞和用词上会有些偏差。如果不麻烦的话，我非常感谢大家能帮忙审查其他语言的内容，特别是我们即将定稿的印刷材料。我已经更新了所有包装的文本内容在我们的GitHub文件夹[product-printed-materials](https://github.com/TechxArtisanStudio/Openterface/tree/main/product-printed-materials)，你可以在这里审查并提交任何改进建议。你也可以直接私信我。谢谢！
 
-## Final Remarks and Ongoing Progress
+## 最后的话和持续进展
 
-We apologise again for the delays and the change in our product’s ETA. Thank you for your patience and for sticking with us—we’re working hard to get this to you as soon as possible! I’ll update you immediately once our shipment is arranged. More updates are on the way, so please join our Openterface community and stay tuned!
+对于延误和产品预计到货时间的变化，我们再次表示歉意。感谢大家的耐心和支持——我们正在努力尽快将产品交到你们手中！一旦我们的发货安排好，我会立即更新大家。更多更新即将到来，请加入我们的Openterface社区并保持关注！
 
-Cheers,
+干杯，
 
 Billy Wang  
-Product Manager  
-Openterface Team | TechxArtisan
+产品经理  
+Openterface团队 | TechxArtisan

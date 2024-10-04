@@ -5,12 +5,11 @@ authors:
 categories:
   - Updates
 ---
+# 最后支持机会 & Tech前线的Mini-KVM
 
-# Last Hours to Back & Mini-KVMs at Tech Frontlines
+大家好，
 
-Hey everyone,
-
-We wanted to share some exciting updates from our beta team on our [Discord channel](/discord)! Our Openterface Mini-KVM is performing brilliantly at the tech frontline, and we've got some fantastic images to show you. Check them out and see what all the buzz is about!
+我们想在我们的[Discord频道](/discord)上分享一些来自测试团队的激动人心的更新！我们的Openterface Mini-KVM在技术前线表现出色，我们还有一些精彩的图片要展示给大家。快来看看这些令人兴奋的内容吧！
 
 ![cam-share](https://www.crowdsupply.com/img/bed9/41ac90fd-1074-49e0-a081-f9798610bed9/cam-share_jpg_md-xl.jpg){:style="width:420px"}
 
@@ -22,38 +21,38 @@ We wanted to share some exciting updates from our beta team on our [Discord chan
 
 ![nkahoang-share](https://www.crowdsupply.com/img/50bc/6318ed70-11f6-4640-b73b-f435267950bc/nkahoang-share_jpg_gallery-lg.jpg){:style="width:420px"}
 
-## 🚨 Last Chance Alert! 🚨
+## 🚨 最后机会提醒！🚨
 
-**Time's running out!** Don't miss your chance to back us on [Crowd Supply](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) and grab the Openterface Mini-KVM at the super wallet-friendly price of $79 - $99. The campaign ends on **June 13, 2024, at 4:59 PM PDT**, and prices are set to increase post-campaign as the product matures. So, act now and snag this deal!
+**时间不多了！** 不要错过在[Crowd Supply](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)上支持我们的机会，以超实惠的价格$79 - $99获得Openterface Mini-KVM。活动将于**2024年6月13日下午4:59 PDT**结束，活动结束后价格将会上涨。所以，赶紧行动，抓住这个机会吧！
 
-## Upcoming Teardown 2024 & A Fun Bet
+## 即将到来的Teardown 2024 & 有趣的赌注
 
-As many of you have seen on the Crowd Supply main page, the upcoming **Teardown 2024 event** is generating a lot of excitement. I’m eager to attend in person and meet our amazing backers there!
+正如大家在Crowd Supply主页上看到的，即将到来的**Teardown 2024活动**引起了很多关注。我非常期待亲自参加并见到我们了不起的支持者们！
 
-Here's **a fun bet** we have going on in our team: 
+我们团队内部有一个**有趣的赌注**：
 
-Currently, we have around 950 backers for our project. Kevin Peng, our technical director, and I have a wager. If we manage to **get 100 more backers** in the final hours, my travel expenses for the trip to Portland will be covered by our studio. If not, I'll have to foot the bill myself, which means a couple of thousand bucks out of my own pocket!
+目前，我们的项目大约有950名支持者。我们的技术总监Kevin Peng和我打了个赌。如果我们在最后几个小时内**再获得100名支持者**，我的波特兰之行的差旅费用将由工作室承担。如果没有，我就得自己掏腰包，这意味着我得自掏几千美元！
 
-So, I’m calling on all our subscribers and new friends of the Openterface Mini-KVM to help us push through these final hours. Let's hit 1050+ backers and make this trip happen!
+所以，我呼吁所有订阅者和Openterface Mini-KVM的新朋友们帮助我们在最后几个小时内冲刺。让我们达到1050+支持者，让这次旅行成行！
 
-Most importantly, please **help spread the word** about our campaign coming to an end. We're committed to building this handy device and ensuring it’s delivered to you in top-notch quality.
+最重要的是，请**帮助传播**我们的活动即将结束的消息。我们致力于打造这个便捷的设备，并确保以最优质的状态交付给您。
 
-We've poured our hearts into this project over the past 8 months. You can see all our efforts in the updates below and check out our history posts on our subreddit [r/Openterface_miniKVM](/reddit):
+在过去的8个月里，我们倾注了大量心血在这个项目上。您可以在下面的更新中看到我们的所有努力，并在我们的subreddit [r/Openterface_miniKVM](/reddit)上查看我们的历史帖子：
 
-- [Openterface Mini-KVM Crowdfunding Campaign Goes Live NOW!](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/openterface-mini-kvm-crowdfunding-campaign-goes-live-now) Apr 30, 2024
+- [Openterface Mini-KVM众筹活动现已上线！](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/openterface-mini-kvm-crowdfunding-campaign-goes-live-now) 2024年4月30日
 
-- [Frequently Asked Questions](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/frequently-asked-questions) May 11, 2024
+- [常见问题解答](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/frequently-asked-questions)  2024年5月11日
 
-- [Our VGA-to-HDMI Cable Is Now Available to European Backers (and It's a Full Meter Long!)](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/our-vga-to-hdmi-cable-is-now-available-to-european-backers-and-its-a-full-meter-long) May 16, 2024
+- [我们的VGA转HDMI线现已向欧洲支持者开放（长度足足有一米！）](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/our-vga-to-hdmi-cable-is-now-available-to-european-backers-and-its-a-full-meter-long) 2024年5月16日
 
-- [From Development to Your Hands: Behind the Scenes](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/from-development-to-your-hands-behind-the-scenes) May 28, 2024
+- [从开发到您手中：幕后故事](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/from-development-to-your-hands-behind-the-scenes) 2024年5月28日
 
-- [Casual Chat with David Groom from MAKE: Magazine: The Story of Openterface Mini-KVM 🎙️](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/casual-chat-with-david-groom-from-make-magazine-the-story-of-openterface-mini-kvm) May 31, 2024
+- [与MAKE:杂志的David Groom的随意聊天：Openterface Mini-KVM的故事 🎙️](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/casual-chat-with-david-groom-from-make-magazine-the-story-of-openterface-mini-kvm) 2024年5月31日
 
-- [Epic Updates & Final Week - Last Chance to Back Mini-KVM!](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/epic-updates-and-final-week-last-chance-to-back-mini-kvm) Jun 08, 2024
+- [史诗更新 & 最后一周 - 最后支持Mini-KVM的机会！](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/epic-updates-and-final-week-last-chance-to-back-mini-kvm) 2024年6月8日
 
-So, back us up in these last couple of hours! Cheers!
+所以，在最后的几个小时里支持我们吧！干杯！
 
 Billy Wang  
-Project Manager  
-Openterface Team
+项目经理  
+Openterface团队

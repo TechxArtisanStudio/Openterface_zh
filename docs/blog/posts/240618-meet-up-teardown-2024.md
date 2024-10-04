@@ -6,43 +6,43 @@ categories:
   - Updates
 ---
 
-# Meet Me in Portland This Weekend & Win a Mini-KVM from My Game Challenge!
+# 本周末在波特兰见面 & 参加我的游戏挑战赢取 Mini-KVM！
 
-Hey everyone! We’ve got some fantastic news to share!
+大家好！我们有一些非常棒的消息要分享！
 
-### Big Thanks!
-First off, I can't [thank you all](https://x.com/TechxArtisan/status/1801850068263178300) enough for your incredible support. Our crowdfunding campaign has absolutely smashed its goals on Jun 14, hitting **$248k** with the amazing support from over **1110 backers** and **Crowd Supply**.
+### 衷心感谢！
+首先，我要对你们的支持表示由衷的感谢。我们的众筹活动在6月14日达到了**$248k**的目标，得到了超过**1110位支持者**和**Crowd Supply**的鼎力支持。
 
 ![crowdfunding_end_240614](https://www.crowdsupply.com/img/b812/9768a2ad-1b78-45dd-966c-942c170fb812/crowdfunding-end-240614_jpg_md-xl.jpg)
 
-This success has given us the chance to make the Mini-KVM even better! We couldn’t have done it without you—seriously, thank you from the bottom of our hearts! 🧡 We'll be working full throttle in production to ensure delivery to your hands soon!
+这次成功让我们有机会进一步改进 Mini-KVM！没有你们的支持，我们不可能做到这一点——真心感谢你们！🧡 我们将全力以赴进行生产，确保尽快将产品交到你们手中！
 
-### Fun Bet & My Flight to Portland!
-So, here’s a fun story: As I mentioned in [this post](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/last-hours-to-back-and-mini-kvms-at-tech-frontlines), Kevin and I made a bet. If we could get 100 new backers in the final 36 hours, I would **fly to the US** for [Crowd Supply's Teardown 2024](https://www.crowdsupply.com/teardown/portland-2024). Well, guess what? We didn’t just hit 100—we got 165 new backers! So, I’m super excited to announce that I’ll be attending Teardown 2024 in person on this Friday (June 21) and weekend.
+### 有趣的赌注 & 我的波特兰之行！
+这里有个有趣的故事：正如我在[这篇文章](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/last-hours-to-back-and-mini-kvms-at-tech-frontlines)中提到的，我和Kevin打了个赌。如果我们能在最后36小时内获得100个新支持者，我就会**飞往美国**参加[2024年Crowd Supply的Teardown](https://www.crowdsupply.com/teardown/portland-2024)。结果呢？我们不仅达到了100个，还获得了165个新支持者！所以，我非常兴奋地宣布，我将于本周五（6月21日）和周末亲自参加Teardown 2024。
 
-### My Demo Table & Livestream
-Teardown is Crowd Supply’s annual flagship event centered around all things hardware - featuring talks, demos, workshops, and more.
+### 我的展示台 & 直播
+Teardown是Crowd Supply每年一度的旗舰活动，围绕硬件展开，包含演讲、展示、工作坊等。
 
-Teardown 2024 Lloyd Center Mall Portland, Oregon June 21-23, 2024
+Teardown 2024 Lloyd Center Mall 波特兰, 俄勒冈州 2024年6月21-23日
 
 ![teardown-poster](https://www.crowdsupply.com/img/25ea/1d486985-1024-45ca-8b7d-0bdc388e25ea/twitter-1600-1900-td2024-wires_jpg_md-xl.jpg)
 
-I'll have a demo table at the Teardown Event: [Check it out here!](https://www.crowdsupply.com/teardown/portland-2024/demo/openterface-mini-kvm-turn-your-laptop-as-a-kvm-console)
+我将在Teardown活动上设有一个展示台：[点击这里查看！](https://www.crowdsupply.com/teardown/portland-2024/demo/openterface-mini-kvm-turn-your-laptop-as-a-kvm-console)
 
-Any chance you're near the Portland area? It'd be fantastic to meet you at the event! Buy the [Teardown ticket](https://www.crowdsupply.com/teardown/portland-2024) now and hope to see you there—**come by and say hi**!
+你有可能在波特兰附近吗？那就太好了，来活动现场见见我吧！现在就购买[Teardown门票](https://www.crowdsupply.com/teardown/portland-2024)，希望能见到你——**过来打个招呼**！
 
-If you can’t make it to the event, don’t worry. You can always find me on our Discord and Subreddit during the conference. You can text or talk to me in real time, as I may be live-streaming all three days while I'm at the demo table, so join our community now and you won’t miss a thing.
+如果你不能来参加活动，也不用担心。在会议期间，你可以随时在我们的Discord和Subreddit上找到我。你可以实时给我发消息或与我交谈，因为我可能会在展示台上进行三天的直播，所以现在就加入我们的社区，不会错过任何精彩内容。
 
-### Game Challenge at Teardown
-Now, for a bit of fun: I’m setting up **a video game competition** at Teardown 2024. I’ll be demoing how our Mini-KVM works with the portable computer, uConsole, which is basically a Raspberry Pi. Check out my X tweet [here](https://x.com/TechxArtisan/status/1802675690015424962) to see how I’ll set it up with the Mini-KVM.
+### Teardown上的游戏挑战
+现在，来点有趣的：我将在Teardown 2024上设置**视频游戏比赛**。我会演示我们的Mini-KVM如何与便携式电脑uConsole（基本上是一个树莓派）一起工作。查看我在X上的推文[这里](https://x.com/TechxArtisan/status/1802675690015424962)，看看我如何用Mini-KVM设置它。
 
 ![play-game-uconsole](https://www.crowdsupply.com/img/c4d2/d5fe66f3-4f3e-4398-bd11-494ae317c4d2/play-game-uconsole_png_md-xl.jpg)
 
-I'm thinking of using games like Pac-Man, The King of Fighters '97, and Tetris for the game challenge. And here’s the kicker—winners can snag a Mini-KVM from me right there! So, come and play a game with me to win!
+我打算用像吃豆人、拳皇'97和俄罗斯方块这样的游戏进行比赛。最棒的是——获胜者可以当场从我这里赢取一个Mini-KVM！所以，来和我一起玩游戏赢奖品吧！
 
-### More to Come
-As always, we’re cooking up some exciting things, and I will have a super exciting announcement at Teardown! So stay tuned for more updates. I can’t wait to see you at Teardown 2024!
+### 更多精彩内容即将到来
+一如既往，我们正在筹备一些令人兴奋的事情，我将在Teardown上有一个超级激动人心的宣布！所以请继续关注更多更新。我迫不及待想在Teardown 2024见到你！
 
-Cheers,  
-Billy Wang
-Openterface Team | TechxArtisan Studio
+干杯，  
+Billy Wang  
+Openterface团队 | TechxArtisan Studio
