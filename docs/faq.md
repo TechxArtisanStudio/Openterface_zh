@@ -7,264 +7,197 @@ tags:
   - USBKVM
 ---
 
-# Frequently Asked Questions (FAQs)
+# 常见问题解答 (FAQs)
 
-We're absolutely delighted to have you here! 🌟 This section is designed to address frequently asked questions about the Openterface Mini-KVM, which our team organises periodically. 
+我们非常高兴您来到这里！🌟 本部分旨在解答关于 Openterface Mini-KVM 的常见问题，这些问题是我们团队定期整理的。
 
-Let's delve into the most frequent questions about the Openterface Mini-KVM.
+让我们深入了解关于 Openterface Mini-KVM 的最常见问题。
 
-*Updated: 20 Aug 2024*
+*更新日期: 2024年8月20日*
 
-### List of Questions
+### 基本问题
 
-##### Basic
-- [What is Openterface Mini-KVM?](#what-is-openterface-mini-kvm)
-- [Why does Openterface Mini-KVM make a difference?](#why-does-the-openterface-mini-kvm-make-a-difference)
-- [What are the use cases for this mini-KVM?](#what-are-use-cases-for-this-mini-kvm)
-- [What host computers are compatible with the Openterface Mini-KVM?](#what-host-computers-are-compatible-with-the-openterface-mini-kvm)
-- [What target devices are compatible with the Openterface Mini-KVM?](#what-target-devices-are-compatible-with-the-openterface-mini-kvm)
-- [Will there be technical support and documentation available for the Openterface Mini-KVM?](#will-there-be-technical-support-and-documentation-available-for-the-openterface-mini-kvm)
-
-##### Software  
-
-- [Where can I download the host applications?](#where-can-i-download-the-host-applications)
-- [Is there a host app supporting ChromeOS?](#is-there-a-host-app-supporting-chromeos)
-- [Is there a host app supporting Apple's mobile devices?](#is-there-a-host-app-supporting-apples-mobile-devices)
-- [What if F11 doesn't work on MacOS applications?](#what-if-f11-doesnt-work-on-macos-applications)
-
-##### Switchable USB Port & File Transfer
-- [Can the Openterface Mini-KVM support file transfers?](#can-the-openterface-mini-kvm-support-file-transfers)
-- [Can the switchable USB-A port be toggled at the software level?](#can-the-switchable-usb-a-port-be-toggled-at-the-software-level)
-- [Why USB 2.0 but not USB 3.0 for this switchable USB port?](#why-usb-20-but-not-usb-30-for-this-switchable-usb-port)  
-
-##### Technical
-- [Is the Openterface Mini-KVM open-source?](#is-the-openterface-mini-kvm-open-source)
-- [Can I access a device's BIOS settings?](#can-i-access-a-devices-bios-settings)
-- [How is video/data transmitted between devices?](#how-is-videodata-transmitted-between-devices)
-- [How does the Openterface Mini-KVM handle power?](#how-does-the-openterface-mini-kvm-handle-power)
-
-##### Control Mechanism
-- [Are there plans for a version with wireless or Ethernet connectivity?](#are-there-plans-for-a-version-with-wireless-or-ethernet-connectivity)
-- [How is this different from other KVM solutions like traditional KVMs, KVM-over-IP, and VNC, etc?](#how-is-this-different-from-other-kvm-solutions-like-traditional-kvms-kvm-over-ip-and-vnc-etc)
-- [Does it work with a target computer requiring PS/2?](#does-it-work-with-a-target-computer-requiring-ps2)
-- [Can I use multiple Mini-KVMs to control multiple target deives from one master computer?](#can-i-use-multiple-mini-kvms-to-control-multiple-target-devices-from-one-master-computer)
-- [Is it capable of powering off/on the computer it’s connected to?](#is-it-capable-of-powering-offon-the-computer-its-connected-to)
-
-##### Video Related
-- [What about video latency and resolution?](#what-about-video-latency-and-resolution)
-- [Is the Openterface Mini-KVM suitable for high-quality gaming?](#is-the-openterface-mini-kvm-suitable-for-high-quality-gaming)
-- [Will there be support for high-quality display in future versions of the Openterface Mini-KVM?](#will-there-be-support-for-high-quality-display-in-future-versions-of-the-openterface-mini-kvm)
-- [Why doesn't Openterface Mini-KVM stream video over local IP?](#why-doesnt-openterface-mini-kvm-stream-video-over-local-ip)
-- [Can it work with different video outputs like VGA, DVI, DisplayPort, etc.?](#can-it-work-with-different-video-outputs-like-vga-dvi-displayport-etc)
-
-##### Troubleshooting
-- [Why does the Openterface Mini-KVM sometimes experience issues when connected through a USB hub?](#why-does-the-openterface-mini-kvm-sometimes-experience-issues-when-connected-through-a-usb-hub)
-
-- [What should I do if the Openterface Mini-KVM becomes unstable, such as when the app doesn’t display the target’s screen or the mouse and keyboard are unresponsive?](#what-should-i-do-if-the-openterface-mini-kvm-becomes-unstable-such-as-when-the-app-doesnt-display-the-targets-screen-or-the-mouse-and-keyboard-are-unresponsive)
-
-##### More
-
-- [How can I contribute into this project?](#how-can-i-contribute-into-this-project)
-- [Want to Review Our Handy Gadget?](#want-to-review-our-handy-gadget)
-- [What are the advanced features planned for the mini-KVM?](#what-are-the-advanced-features-planned-for-the-mini-kvm)
-- [How does the Openterface integrate with AI and what are its future possibilities?](#how-does-the-mini-kvm-integrate-with-ai-and-what-are-its-future-possibilities)
-- [What accessories are available for the Openterface Mini-KVM?](#what-accessories-are-available-for-the-openterface-mini-kvm)
-
-### Basic
-
-#### What is Openterface Mini-KVM?
-The Openterface Mini-KVM allows you to use your laptop or computer to display and control headless devices through a USB and HDMI connection. This KVM-over-USB solution offers a lightweight, speedy, and seamless KVM control. It eliminates the need for extra monitors, keyboards, and mice, providing a convenient solution in places where network connections are unreliable or unavailable. It is particularly useful for [a wide range of applications](/use-cases/), especially for tech professionals troubleshooting headless devices or single-board computers. With the use of a video adapter, it can also support [VGA](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#product-3914), Micro HDMI, DVI, and other input sources. 
+#### 什么是 Openterface Mini-KVM？
+Openterface Mini-KVM 允许您通过 USB 和 HDMI 连接使用笔记本电脑或计算机来显示和控制无头设备。这种 KVM-over-USB 解决方案提供了轻便、快速和无缝的 KVM 控制。它消除了额外显示器、键盘和鼠标的需求，为网络连接不可靠或不可用的地方提供了方便的解决方案。它特别适用于[广泛的应用](/use-cases/)，尤其是技术专业人员在排除无头设备或单板计算机故障时。通过使用视频适配器，它还可以支持 [VGA](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#product-3914)、Micro HDMI、DVI 和其他输入源。
 
 The Openterface Mini-KVM is ==fully open-sourced== in both [hardware](/how-it-works/#explore-hardware-details) and [software](/quick-start/#install-host-application), certified by [OSHWA](https://certification.oshwa.org/cn000015.html), and supported by [a vibrant community](/community/).
 
-#### Why Does the Openterface Mini-KVM Make a Difference?
+#### Openterface Mini-KVM 有什么独特之处？
 
-With various KVM solutions available, here’s why the Openterface Mini-KVM stands out:
+在众多 KVM 解决方案中，Openterface Mini-KVM 脱颖而出的原因如下：
 
-- Portability & Functionality
-- Network-Free & On-the-Fly Troubleshooting
-- Wallet-Friendly Price
-- Fully Open Source & Community
+- 便携性和功能性
+- 无需网络，随时排查故障
+- 价格实惠
+- 完全开源和社区支持
 
-To read more, visit our [Why Openterface Mini-KVM](/why-openterface) page.
+想了解更多，请访问我们的[为什么选择 Openterface Mini-KVM](/why-openterface)页面。
 
-#### What are use cases for this mini-KVM?
-Openterface Mini-KVM is the perfect companion for a wide range of users and scenarios:
+#### 这个 mini-KVM 的使用场景有哪些？
+Openterface Mini-KVM 是各种用户和场景的理想伴侣：
 
-- IT professionals troubleshooting servers
-- Technicians servicing ATMs, VLTs, and kiosks
-- Developers managing edge computing devices
-- Tech enthusiasts experimenting with single-board computers
-- Professionals requiring secure local operations on network segregation, such as those managing crypto assets
-- Anyone in need of frequently integrated workflows between personal and work computers.
+- IT 专业人员排查服务器故障
+- 技术人员维护 ATM、VLT 和自助终端
+- 开发人员管理边缘计算设备
+- 技术爱好者实验单板计算机
+- 需要在网络隔离环境中进行安全本地操作的专业人员，例如管理加密资产的人员
+- 需要在个人和工作电脑之间频繁集成工作流程的任何人
 
-Please also check out this page: [Use Cases](/use-cases/)
+请访问此页面了解更多：[使用场景](/use-cases/)
 
-#### What host computers are compatible with the Openterface Mini-KVM?
-To use this mini-KVM, the host computer must install one of these [host applications](/quick-start/#install-host-application) to support MacOS, Windows, Linux and Android.
+#### 哪些主机电脑与 Openterface Mini-KVM 兼容？
+要使用这个 mini-KVM，主机电脑必须安装以下任一[主机应用程序](/quick-start/#install-host-application)，以支持 MacOS、Windows、Linux 和 Android。
 
-#### What target devices are compatible with the Openterface Mini-KVM?
-No pre-installation or configuration is required on the target device. As long as the target device supports UI operations with video output (e.g., HDMI, VGA) and has a USB port to receive emulated keyboard and mouse control (HID) signals, it can be used. Thus, supported target device platforms include Windows, MacOS, Linux, Android, and iOS.
+#### 哪些目标设备与 Openterface Mini-KVM 兼容？
+目标设备无需预先安装或配置。只要目标设备支持带视频输出（如 HDMI、VGA）的 UI 操作，并且有 USB 端口接收模拟的键盘和鼠标控制（HID）信号，就可以使用。因此，支持的目标设备平台包括 Windows、MacOS、Linux、Android 和 iOS。
 
-#### Will there be technical support and documentation available for the Openterface Mini-KVM?
-Extensive documentation for the Openterface Mini-KVM can be found on our website at [Openterface.com](/). We continuously update these resources to optimize your experience with the device.
-For technical support, we invite you to join our [community](/community/) for sharing queries and insights among fellow users and our expert team. If your issue remains unresolved, our team is available to provide further technical assistance. You can reach out via this email: info@techxartisan.com.
+#### Openterface Mini-KVM 是否提供技术支持和文档？
+Openterface Mini-KVM 的详细文档可以在我们的网站 [Openterface.com](/) 上找到。我们会不断更新这些资源，以优化您对设备的使用体验。
+对于技术支持，我们邀请您加入我们的[社区](/community/)，与其他用户和我们的专家团队分享问题和见解。如果您的问题仍未解决，我们的团队将提供进一步的技术支持。您可以通过以下电子邮件联系我们：info@techxartisan.com。
 
-### Software
+#### 是否有支持 ChromeOS 的主机应用程序？
+有的，但目前还在开发中。我们计划创建一个支持 Chrome 和 Firefox 浏览器的网页扩展。虽然它的开发优先级略低于 macOS、Windows 和 Linux 等主流操作系统，但我们正在积极推进。请耐心等待并关注我们的更新！如果您有兴趣参与我们的开发，欢迎加入我们的社区或给我们发邮件！
 
-#### Where can I download the host applications?
-Visit our [Install Host Application page](/quick-start/#install-host-application) for official downloads.
+#### 是否有支持苹果移动设备的主机应用程序？
+我们目前正在探索与苹果移动系统（如 iOS 和 iPadOS）的兼容性。由于苹果的严格控制，这些平台可能不支持与第三方设备的有线连接。然而，情况可能会有所变化，或者可能存在潜在的解决方法。如果您有任何见解或建议，欢迎加入我们的社区与我们讨论。我们致力于通过支持尽可能多的系统来提升设备的便利性。如果您有兴趣参与我们的开发，欢迎加入我们的社区或给我们发邮件！
 
-??? warning "Privacy & Security: Be cautious when using third-party host app"
-    As our project is open source, you may find alternative versions of host applications compatible with our Mini-KVM developed by others. While these can offer additional features, please ensure you review their security and privacy practices. **The Openterface Team cannot guarantee or be responsible for the safety of third-party applications**.
+#### 如果 F11 在 macOS 应用程序中不起作用怎么办？
+在 macOS 上，按下 F11 会显示 macOS 桌面，而不是将 F11 键传递给应用程序和目标计算机。要解决这个问题，您可以取消 F11 与“显示桌面”功能的绑定。操作步骤如下：
 
-#### Is there a host app supporting ChromeOS?
-Yes, but it is currently under development. We are planning to create a web extension designed to support both Chrome and Firefox browsers. Although its development priority is slightly lower than that for mainstream operating systems such as macOS, Windows, and Linux, we are actively working on it. Please bear with us and stay tuned for updates! If you're keen to help out with our development, come hang out with us in the community or shoot us an email!
+1. 打开系统设置。
+2. 选择桌面与坞站。
+3. 向下滚动并点击“快捷键…”按钮。
+4. 找到“显示桌面”并将其设置为下拉列表底部的连字符（-）。
+5. 这样更改后，F11 键将传递给目标计算机上的应用程序。
 
-#### Is there a host app supporting Apple's mobile devices?
-We are currently exploring compatibility with Apple's mobile systems, such as iOS and iPadOS. Due to Apple's stringent controls, these platforms may not support wired connections with third-party devices. However, the situation could change, or there might be potential workarounds. If you have any insights or suggestions, we welcome you to join our community to discuss them with us. We are committed to enhancing the convenience of our device by supporting as many systems as possible. If you're keen to help out with our development, come hang out with us in the community or shoot us an email!
+### 可切换的 USB 端口和文件传输
 
-#### What if F11 doesn't work on macOS applications?
-On macOS, pressing F11 shows the macOS desktop instead of passing the F11 key to the app and the target computer. To fix this, you can unbind F11 from the "Show Desktop" function. Here’s how:
+#### Openterface Mini-KVM 支持文件传输吗？
+是的，Openterface Mini-KVM 配备了一个可切换的 USB-A 端口，可以在主机和目标设备之间共享。
 
-1. Go to System Settings.
-2. Select Desktop & Dock.
-3. Scroll down and click the "Shortcuts…" button.
-4. Find "Show Desktop" and set it to the hyphen (-) at the bottom of the dropdown list.
-5. This change will let the F11 key pass through to your application on the target computer.
+??? note "如何在主机和目标设备之间共享 U 盘/硬盘？"
+    可以按照以下步骤在主机和目标设备之间传输文件：
 
-### Switchable USB Port and File Transfer
+    1. 当小黑色开关设置在主机 Type-C 端口一侧时，将 U 盘插入主机。
+    2. 将文件复制到这个已挂载的 U 盘上。
+    3. 复制完成后，卸载 U 盘，但不要物理拔出。
+    4. 将小黑色开关拨到另一侧，这样 USB-A 端口就连接到目标设备了。
+    5. 在目标设备上挂载 U 盘，然后将文件从 U 盘复制或移动到目标设备，完成从主机到目标设备的文件传输。
 
-#### Can the Openterface Mini-KVM support file transfers?
-Yes, the Openterface Mini-KVM includes a switchable USB-A port shared between the host and target devices.
+    这个方法也可以反向使用。
 
-??? note "How to share a USB stick/disk between the Host and Target devices?"
-    Files can be transferred between the host and target by following these steps:
+??? note "切换开关前请记得弹出 U 盘"
+    如果 USB 端口正在使用 U 盘，请确保在切换开关前弹出 U 盘，以便将端口的使用权转移到另一台电脑。
+#### 可切换的 USB-A 端口可以通过软件切换吗？
+在硬件升级到 v1.9 后，可以！我们目前正在将这个功能编写到我们的应用程序中。一旦完成，您将可以通过物理切换和软件切换来控制这个端口。想了解更多进展，请在 Discord 上与我们的开发团队联系。
 
-    1. Mount a USB stick drive on the host when the small black switch is set to the side of the host's Type-C port.
-    2. Copy the files onto this mounted drive.
-    3. After copying, unmount the drive without physically unplugging it.
-    4. Flip the small black switch to the other side. This action switches the USB-A port's connection to the target.
-    5. Mount the USB stick on the target device and copy/move files off the drive, completing the transfer process of files from host to target.
+#### 为什么选择 USB 2.0 而不是 USB 3.0 作为这个可切换的 USB 端口？
+USB 2.0 完全能够处理 1080p@30Hz 的视频捕捉、传输键盘和鼠标的 HID 信号，以及在主机和目标电脑之间进行标准速度的文件传输。这使得我们的产品快速、轻便且便携，正如我们设计的初衷。
 
-    This method can also be used in the opposite direction.
+使用 USB 3.0 会使 PCB 设计更加复杂，并显著增加生产成本。此外，虽然 USB 3.0 提供更快的文件传输速度，但它也会产生更多的热量，可能会缩短设备的使用寿命。
 
-??? note "Remember to eject the flash drive before toggling the switch"
-    If the USB port is being used by a flash drive, ensure you eject the flash drive before toggling the switch to transfer the port’s use to another computer.
+我们正在考虑在下一版本中应用 USB 3.0，目标是更专业的使用场景和固定的 KVM 解决方案。
 
-#### Can the switchable USB-A port be toggled at the software level?
-With the hardware upgrade to v1.9, yes! We’re currently working on coding this feature into our app. Once it’s in place, it will support both physical flipping and toggling at the software level. Check with our dev team on Discord to know more about this progress.
+### 技术相关
 
-#### Why USB 2.0 but not USB 3.0 for this switchable usb port?
-USB 2.0 is fully capable of handling video capture at 1080p@30Hz, transmitting HID signals (for keyboard and mouse), and managing standard-speed file transfers between the target and host computers. This makes our product a speedy, lightweight, and portable solution, exactly as designed.
+#### Openterface Mini-KVM 是开源的吗？
+是的！Openterface Mini-KVM 的硬件和软件都是完全开源的，已通过 [OSHWA](https://certification.oshwa.org/cn000015.html) 认证，并得到了[活跃社区](/community/)的支持。如果您有兴趣[贡献](/contributing/)，请通过 info@techxartisan.com 联系我们。敬请关注！
 
-Using USB 3.0 would make the PCB design much more complex and significantly increase production costs. Additionally, while USB 3.0 does offer faster file transfers, it also generates more heat, which could shorten the lifespan of the device.
+#### 我可以访问设备的 BIOS 设置吗？
+可以，Openterface Mini-KVM 的直接连接使您能够访问低级别的 BIOS 或固件设置。
 
-We are considering the application of USB 3.0 for the next version, targeting more professional use scenarios and stationary KVM solutions.
+这一功能与基于软件的 KVM 解决方案或像 TeamViewer 和 VNC 这样的远程控制应用程序不同，后者通常无法进行 BIOS 级别的交互。
+#### 为什么在一些老旧的目标电脑上键盘控制在 BIOS 级别不起作用？
+有些老旧电脑的 BIOS 可能无法识别我们设备的 USB 集线器，这会导致我们模拟的键盘和鼠标在 BIOS 级别无法正常工作。我们正在关注这个问题。
 
-### Technical
+我们收到报告称，在某些特定的 HP 电脑上，比如 HP Engage Flex Pro，键盘在 BIOS 界面无法使用，但操作系统启动后就能正常工作。
 
-#### Is the Openterface Mini-KVM open-source?
-Yes! The Openterface Mini-KVM is fully open-sourced in both [hardware](/how-it-works/#explore-hardware-details) and [software](/quick-start/#install-host-application), certified by [OSHWA](https://certification.oshwa.org/cn000015.html), and supported by [a vibrant community](/community/). If you are interested in [contributing](/contributing/), please contact us at info@techxartisan.com. Stay tuned!
+如果您遇到类似问题，请通过 GitHub issue 向我们报告。
 
-#### Can I access a device's BIOS settings?
-Yes, the direct connection of the Openterface Mini-KVM enables access to low-level BIOS or firmware settings.
+#### 设备之间的视频/数据是如何传输的？
+视频数据通过 HDMI 捕获，并通过 USB 2.0 传输到主机电脑进行显示。可切换的 USB 2.0 端口允许在目标设备和主机之间共享 U 盘或其他 USB 设备。
 
-This feature stands in contrast to software-based KVM solutions or remote control applications like TeamViewer and VNC, which are typically not capable of BIOS-level interactions.
+#### Openterface Mini-KVM 是如何供电的？
+该设备不需要外部电源，因为它设计通过主机的 USB Type-C 连接供电，增强了便携性。在目标设备是低功耗微型计算机（如 Raspberry Pi）的情况下，可以通过 Mini-KVM 的可切换 USB 端口从主机供电。然而，这并不推荐。标准操作方法是为目标设备提供外部电源。
 
-#### Why doesn't the keyboard control work at the BIOS level for some older target computers?
-It seems that some old computers' BIOS can't recognize our device's USB hub, which can cause issues with our emulated keyboard and mouse not working properly at the BIOS level. We're keeping an eye on this problem.
+#### 我可以自己动手制作这个设备吗？
+当然可以！我们是一群热爱 DIY 的爱好者，确保这个项目在硬件和软件上都是开源的。您可以从头开始自己制作。我们甚至考虑发布一个 DIY 面包板版本的指南，该版本也能兼容我们的软件。
 
-We've had a report that on one specific HP computer, the HP Engage Flex Pro, the keyboard doesn't work at the BIOS screen, though it functions normally once the operating system boots up.
+我们的社区已经在尝试不同的硬件版本。查看我们的社区帖子了解更多，或者分享您的 DIY 经验！这可以极大地丰富我们的社区。而且，您可能会发现，通过对代码进行一些调整，我们的软件可以无缝地与您的创意 DIY 设置配合使用。
+### 控制机制
 
-If you encounter the same issue, please report it to us via a GitHub issue.
+#### 有计划推出无线或以太网连接版本吗？
+目前，我们没有计划为 Openterface 产品添加无线或以太网连接。我们专注于通过 USB 提供快速、稳定的控制，确保您无需担心网络问题。
 
-#### How is video/data transmitted between devices?
-Video data is captured via HDMI and transmitted over USB 2.0 to the host computer for display. The switchable USB 2.0 port allows USB drive or other USB device sharing between the target and the host.
+不过，我们始终欢迎反馈！如果您认为这个功能确实有必要，或者您在寻找合适的 KVM-over-IP 解决方案时遇到困难，请给我们发邮件：info@techxartisan.com。如果我们决定扩展连接选项，我们的[社区](/reddit)会第一时间知道。
 
-#### How does the Openterface Mini-KVM handle power?
-The device does not require an external power supply, as it is designed to be powered through its USB Type-C connections from the host, enhancing its portability. In scenarios where the target device is a low-power micro-computer, such as a Raspberry Pi, it could be powered through the host via the Mini-KVM's switchable USB port. However, this is not recommended. The standard method of operation is to have an external power supply to the target device.
+#### 这与传统 KVM、KVM-over-IP 和 VNC 等其他 KVM 解决方案有何不同？
+想知道 Openterface Mini-KVM 与其他解决方案的对比？请查看我们的详细[对比](/comparison)页面。
 
-#### Can I DIY this device?
-Absolutely! We're a bunch of passionate makers who love to DIY, and we are making sure this project is open source in both hardware and software. You can technically build it from scratch. We’re even thinking about posting a guide on how to DIY a breadboard version of our product that would also be compatible with our software.
+#### 它能与需要 PS/2 的目标电脑一起使用吗？
+不能。我们知道仍有许多老旧的无头电脑需要 PS/2 键盘和鼠标。据我们所知，目前还没有优雅的解决方案将 USB HID 信号转换为 PS/2 键盘和鼠标信号。我们正在研究这个问题，并考虑在未来版本的 Mini-KVM 中支持 PS/2。如果您知道任何可以与我们的 Mini-KVM 优雅配合的解决方案，请与我们分享。谢谢！
 
-Our community is already experimenting with different hardware versions. Check out our community posts to learn more, or share your own DIY experiences! It could really enrich our community. Plus, you might find that with a few tweaks to the code, our software could work seamlessly with your creative DIY setup!
+#### 我可以使用多个 Mini-KVM 从一台主机控制多个目标设备吗？
+可以！我们的 Mini-KVM 技术上可以实现这一点，但我们仍在调整代码和进行测试。我们专注于确保软件在使用多个 Mini-KVM 时，能够自动将键盘和鼠标与正确的视频源链接。此外，我们还在改进软件的用户界面，以更好地支持这种设置。请关注我们的社区更新，了解这一功能的推出时间！
 
-### Control Mechanism
+#### 它能控制连接的电脑的开关机吗？
+我们的设备不支持 ATX（目标电脑的开关机控制）。我们设计它是为了便携、快速排障和本地控制。它主要用于您在现场使用笔记本电脑管理一个或多个目标电脑。未来我们可能会推出带有 ATX 和更多功能的专业版。
 
-#### Are there plans for a version with wireless or Ethernet connectivity?
-Currently, we're not planning to add wireless or Ethernet connectivity to our Openterface products. We’re focused on providing fast, stable control over USB directly to your target device, so you don’t have to worry about network issues. 
+### 视频相关
 
-But hey, we’re always open to feedback! If you think there’s a real need for this feature, or if you’re struggling to find a good KVM-over-IP solution, drop us an email: info@techxartisan.com. And remember, if we decide to expand our connectivity options, our [community](/reddit) will be the first to know.
+#### 视频延迟和分辨率如何？
+我们的设备处理 1080p 视频，延迟低于 140 毫秒，确保您的控制体验流畅无缝。
 
-#### How is this different from other KVM solutions like traditional KVMs, KVM-over-IP, and VNC, etc?
-Curious about how the Openterface Mini-KVM stacks up against other solutions? Check out our detailed [Comparison](/comparison) page.
+#### Openterface Mini-KVM 适合高质量游戏吗？
+目前的设计主要针对技术和 IT 操作，提供可靠的设备配置和故障排除控制，而不是高分辨率游戏。虽然它适用于许多任务，但这款 mini-KVM 可能无法满足高质量游戏的显示需求。
 
-#### Does it work with a target computer requiring PS/2?
-No. We are aware that there are still many old headless computers out there that require PS/2 keyboards and mice. As far as we know, there isn't yet an elegant solution for converting USB HID signals to split into PS/2 keyboard and mouse signals. We are still investigating this matter and considering how to support PS/2 in future versions of the Mini-KVM. If you know of any solutions that could elegantly work with our Mini-KVM, please share them with us. Thank you!
+#### 未来版本的 Openterface Mini-KVM 会支持高质量显示吗？
+我们知道很多用户希望有顶级的显示功能。虽然这不是我们目前的主要关注点，但根据您的反馈，我们正在考虑在专业版的 Openterface Mini-KVM 中添加增强的显示功能。
 
-#### Can I use multiple Mini-KVMs to control multiple target deives from one master computer?
-Yes, you can! Our Mini-KVM can technically handle this, but we’re still tweaking the code and running tests. We're focusing on making sure that our software can automatically link up the keyboard and mouse with the right video source when you use more than one Mini-KVM at a time. Also, we’re sprucing up the software's UI to make it better for this kind of setup. Stay tuned to our community updates for when we roll out this feature!
+#### 为什么 Openterface Mini-KVM 不通过本地 IP 传输视频？
+Openterface Mini-KVM 通过有线连接（HDMI 和 USB）确保可靠稳定的性能。虽然技术上可以通过我们的主机应用程序在网络上传输视频，但我们正在考虑在未来的主机应用程序中添加 VLC，甚至 VNC 功能。
 
-#### Is it capable of powering off/on the computer it’s connected to?
-Our device doesn't support ATX (power on/off control for the target computer). We designed it to be portable, quick for troubleshooting, and stable for local control. It's really meant to be used when you're right there with your laptop, managing one or several target computers. We may build a pro version in the future with ATX and more features.
+#### 它能与不同的视频输出（如 VGA、DVI、DisplayPort 等）一起使用吗？
+可以。Openterface Mini-KVM 通过 HDMI 端口捕获视频。不过，您可以使用各种视频适配器，如 [VGA-to-HDMI](/use-cases/#streamlined-server-management)、[DVI-to-HDMI](/use-cases/#unified-control-for-diverse-devices)、[miniHDMI-to-HDMI](/use-cases/#simplified-setup-for-tech-enthusiasts) 或 DP-to-HDMI，将不同的视频源连接到设备上。
+### 故障排除
 
-### Video Related
+#### 为什么 Openterface Mini-KVM 通过 USB 集线器连接时有时会出现问题？
 
-#### What about video latency and resolution?
-Our device handles 1080p video with under 140 milliseconds of latency, making your control experience smooth and seamless.
+当在目标设备端使用 USB 集线器时，Openterface Mini-KVM 可能会变得不稳定。这是因为 Openterface Mini-KVM 主要依赖目标端口供电。如果连接到目标设备的 USB 集线器负载过重，可能会导致电压显著下降，从而因电力不足导致 Openterface Mini-KVM 不稳定。如果需要在目标设备端使用 USB 集线器，建议使用带外部电源的有源 USB 集线器，以确保稳定运行。
 
-#### Is the Openterface Mini-KVM suitable for high-quality gaming?
-The current design focuses on technical and IT operations, providing reliable control for device configuration and troubleshooting rather than high-resolution gaming. While it’s great for many tasks, this mini-KVM might not meet the display needs of high-quality gaming.
+#### 如果 Openterface Mini-KVM 变得不稳定，比如应用程序不显示目标设备的屏幕或鼠标键盘无响应，我该怎么办？
 
-#### Will there be support for high-quality display in future versions of the Openterface Mini-KVM?
-We know a lot of you are looking for top-notch display features. While it’s not our main focus right now, based on your feedback, we’re considering adding enhanced display capabilities in a professional version of the Openterface Mini-KVM.
+如果遇到 Openterface Mini-KVM 不稳定的情况，比如应用程序不显示目标设备的屏幕或无法控制鼠标键盘，尝试断开所有电缆。稍等片刻后，重新连接电缆并再次尝试。这个简单的重置通常可以解决连接问题。
 
-#### Why doesn't Openterface Mini-KVM stream video over local IP?
-The Openterface Mini-KVM has been engineered to ensure reliable and stable performance through wired connections, using HDMI and USB. While it is technically feasible to stream video over a network via our host applications, we are considering adding a VLC, and even VNC feature to our host applications in the future.
+### 更多
 
-#### Can it work with different video outputs like VGA, DVI, DisplayPort, etc.??
-Sort of. The Openterface Mini-KVM captures video through an HDMI port. However, you can use various video adapters like [VGA-to-HDMI](/use-cases/#streamlined-server-management), [DVI-to-HDMI](/use-cases/#unified-control-for-diverse-devices), [miniHDMI-to-HDMI](/use-cases/#simplified-setup-for-tech-enthusiasts), or DP-to-HDMI, to connect different video sources.
+#### 我如何为这个项目做贡献？
+当然可以！有很多方式可以参与进来：
 
-### Troubleshooting
+- 如果你擅长编程，可以帮助我们报告和修复漏洞。
+- 擅长文字和技术？你可以帮忙改进我们的文档。
+- 如果你是语言高手，为什么不帮忙翻译我们的文档，让更多人能参与进来？
+- 如果你擅长设计，我们一直在寻找新的图形设计、应用界面设计和提升设备用户友好性的创意。
+- 想帮助我们保持社区活跃？我们也需要你的技能。
 
-#### Why does the Openterface Mini-KVM sometimes experience issues when connected through a USB hub?
+你的支持和[贡献](/contributing/)是 Openterface Mini-KVM 成长的动力。感谢你成为我们冒险的一部分！🚀 想帮忙但找不到合适的方式？给我们发邮件吧！
 
-When a USB hub is used on the target side, the Openterface Mini-KVM might become unstable. This is because the Openterface Mini-KVM relies primarily on the target port for power. If the USB hub connected to the target is fully loaded, it may cause a significant voltage drop, leading to instability in the Openterface Mini-KVM due to insufficient power. If you need to use a USB hub on the target side, consider using a powered USB hub with an external power supply to ensure stable operation.
+#### 想要评测我们的实用小工具？
+嘿，我们喜欢让更多人知道我们的 Mini-KVM！如果你是媒体人士或社交媒体达人，想要试用我们的产品，我们非常欢迎。无论你是喜欢详细评测、开箱视频，还是只是想给我们一个 shoutout，我们都在这里等你，一起制造一些轰动吧！🎉 现在就给我们发邮件！
 
-#### What should I do if the Openterface Mini-KVM becomes unstable, such as when the app doesn’t display the target’s screen or the mouse and keyboard are unresponsive?
+#### Mini-KVM 计划有哪些高级功能？
 
-If you encounter instability with the Openterface Mini-KVM—such as the app not displaying the target's screen or the inability to control the mouse and keyboard—try disconnecting all the cables. After a brief moment, reconnect the cables and try again. This simple reset often resolves connection issues.
+我们对 Mini-KVM 的潜力感到兴奋，并致力于在全面的路线图中记录我们所有的当前想法。这个路线图将概述我们对设备的高级功能和未来发展。我们期待与社区一起开发这些功能。请继续关注我们的更新，随着我们不断成长和创新。
 
-### More
+#### Mini-KVM 如何与 AI 集成及其未来可能性？
 
-#### How can I contribute into this project?
-Absolutely! There are loads of ways you can chip in:
+我们的最终目标是让 AI 控制目标电脑，而 Openterface 在这个愿景中起着关键作用。受 [OthersideAI's self-operating computer](https://github.com/OthersideAI/self-operating-computer) 项目的启发，我们希望 Mini-KVM 能作为主机电脑的“手”（提供键盘和鼠标控制）和“眼”（捕捉视频源）的延伸。如果主机电脑足够强大，它可能会模拟 2013 年电影《Her》中的能力。虽然这是一个未来的愿景，但它突显了我们对 Mini-KVM 的激动人心的可能性。
 
-- If you're into coding, help us out by reporting and fixing bugs. 
-- Good with words and tech? You could lend a hand with our documentation. 
-- And if you’re a wizard with languages, why not help translate our docs to help more folks get on board?
-- If design’s your thing, we’re always looking for fresh takes on graphic design, app UI, and making our device even more user-friendly. 
-- Fancy helping to keep our community buzzing? We could use your skills there too.
-
-Your support and [contributions](/contributing/) are what keep Openterface Mini-KVM growing. Thanks for being part of our adventure! 🚀 Got the urge to help but don’t see a perfect fit? Just shoot us an email!
-
-#### Want to Review Our Handy Gadget?
-Hey, we love making noise and spreading the word about our Mini-KVM! If you're from the press or rocking it on social media and fancy taking our product for a spin, we're all ears. Whether you're into detailed reviews, unboxing videos, or just want to give us a shoutout, we're here for it and let's make some waves together! 🎉 Just drop us an email NOW!
-
-#### What are the advanced features planned for the mini-KVM?
-
-We are excited about the potential of the mini-KVM and are committed to documenting all our current ideas in a comprehensive roadmap. This roadmap will outline advanced features and future developments we envision for the device. We look forward to developing these features in collaboration with our community. Stay tuned for more updates as we continue to grow and innovate together.
-
-#### How does the mini-KVM integrate with AI and what are its future possibilities?
-
-Our ultimate goal is to enable AI to control target computers, and the Openterface plays a crucial role in this vision. Inspired by projects like [OthersideAI's self-operating computer](https://github.com/OthersideAI/self-operating-computer), we aim for the mini-KVM to act as an extension of the 'hands' (providing keyboard and mouse control) and 'eyes' (capturing the video source) for the host computer. If the host computer is powerful enough, it could potentially emulate the capabilities seen in the 2013 movie "Her". While this is a future aspiration, it highlights the exciting possibilities we see for the mini-KVM.
-
-#### What accessories are available for the Openterface Mini-KVM?
-We offer a range of accessories to enhance your experience with the Openterface Mini-KVM. Check out our [Accessories](accessories.md) section for more details on available products, including our VGA to HDMI Converter Cable.
+#### Openterface Mini-KVM 有哪些配件可用？
+我们提供一系列配件来增强你使用 Openterface Mini-KVM 的体验。查看我们的[配件](accessories.md)部分，了解更多可用产品，包括我们的 VGA 转 HDMI 转换线。
 
 --------
 
-Your curiosity and support fuel our progress, and we want to ensure that every one of your questions finds an answer. Please note that as time progresses, the content above in our FAQs may become outdated. If your query isn't covered in this FAQ, always check our website [openterface.com](/) for the most current information. Also please don’t hesitate to join our enthusiastic community. We’re active on our Subreddit at [/r/Openterface_miniKVM/](/reddit) and our Discord server, [TechxArtisan](/discord), where you can ask questions, share ideas, or just have a chat about all things tech.
+你的好奇心和支持推动了我们的进步，我们希望确保每一个问题都能得到解答。请注意，随着时间的推移，上述 FAQ 内容可能会过时。如果你的问题没有在此 FAQ 中涵盖，请随时查看我们的网站 [openterface.com](/) 以获取最新信息。也请不要犹豫，加入我们热情的社区。我们活跃在 Subreddit [/r/Openterface_miniKVM/](/reddit) 和 Discord 服务器 [TechxArtisan](/discord)，你可以在这里提问、分享想法，或者只是聊聊所有与技术相关的事情。
 
-Moreover, feel free to reach out directly to our dedicated team by sending an email to info@techxartisan.com. We love hearing from you and are always here to help!
+此外，随时通过发送电子邮件至 info@techxartisan.com 直接联系到我们敬业的团队。我们喜欢听到你的声音，并随时准备提供帮助！

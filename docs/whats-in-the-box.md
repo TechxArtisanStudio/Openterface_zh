@@ -1,24 +1,24 @@
-# What's In The Box
+# 盒子里有什么
 
-Explore our two purchase options designed to meet your needs, whether you're looking for the essentials or a complete set of tools.
+我们提供两种购买选择，满足您的不同需求，无论您是需要基本配置还是完整工具套装。
 
-## Package 1: Basic Pack
+## 套餐1：基础包
 
 ![basic-pack](images/product/basic-with-maunal.jpg){:style="width:680px"}
 
-1. Core Product: Openterface Mini-KVM
-2. Quick Start Guide
+1. 核心产品：Openterface Mini-KVM
+2. 快速入门指南
 
-## Package 2: Toolkit Pack
+## 套餐2：工具包
 
 ![toolkit-open](images/product/toolkit-open.jpg){:style="width:680px"}
 
-1. Core Product: Openterface Mini-KVM
-2. Quick Start Guide
-3. Toolkit Bag (165 x 110 x 50mm)
-4. Extension Pin Cap
-5. HDMI Male-to-Male Cable (30cm)
-6. Type-C Male to USB-A Male Cable (0.3m) with USB-A Female to USB-C Male Adapter
-7. Type-C Male-to-Male Cable (1.5m) with USB-C Female to USB-A Male Adapte
+1. 核心产品：Openterface Mini-KVM
+2. 快速入门指南
+3. 工具包 (165 x 110 x 50mm)
+4. 延长针帽
+5. HDMI 公对公线 (30cm)
+6. Type-C 公对 USB-A 公线 (0.3m) 及 USB-A 母对 USB-C 公转接头
+7. Type-C 公对公线 (1.5m) 及 USB-C 母对 USB-A 公转接头
 
 ![toolkit-parts-layout-2-numbers](images/product/toolkit-parts-layout-2-numbers.jpg){:style="width:680px"}

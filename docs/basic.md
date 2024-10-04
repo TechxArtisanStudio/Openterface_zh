@@ -1,51 +1,51 @@
-# Basic Control
+# 基本控制
 
 ![use-case-pc-angled-view](images/product/use-case-pc-angled-view.jpg)
 
-## 💻 Compatibility
+## 💻 兼容性
 
-- **Host Software**: Install our [host app](/app) for macOS, Windows, and Linux to control your target devices. Ensure your host system is compatible with the corresponding app version.
-- **Target Device Compatibility**: No pre-installation or configuration is required on the target device. As long as the target device supports UI operations with video output (e.g., HDMI, VGA) and has a USB port to receive emulated keyboard and mouse control (HID) signals, it can be used. Supported target platforms include Windows, macOS, Linux, Android, and iOS.
+- **主机软件**: 安装适用于 macOS、Windows 和 Linux 的 [主机应用](/app) 来控制目标设备。确保您的主机系统与相应的应用版本兼容。
+- **目标设备兼容性**: 目标设备无需预先安装或配置。只要目标设备支持视频输出（如 HDMI、VGA）并且有 USB 端口接收模拟的键盘和鼠标控制（HID）信号，就可以使用。支持的目标平台包括 Windows、macOS、Linux、Android 和 iOS。
 
-## 🖱 Mouse Control
+## 🖱 鼠标控制
 
-- **Absolute Mode**: The target's mouse cursor is mapped directly to a specific position on the host's screen via our app. This means that wherever you move the host's mouse within our app, the target's mouse will follow the same movement. Note that there might be a slight delay in the cursor movements. You can choose to hide or display the host's mouse cursor while it is on our app.
+- **绝对模式**: 通过我们的应用，目标设备的鼠标光标会直接映射到主机屏幕上的特定位置。这意味着无论您在应用中移动主机的鼠标到哪里，目标设备的鼠标都会跟随相同的移动。请注意，光标移动可能会有轻微延迟。您可以选择在应用中隐藏或显示主机的鼠标光标。
 
-- **Relative Mode**: The target's mouse movement is relative to the current position of the host's mouse. This means that moving the host's mouse will shift the target's cursor by a certain distance in the same direction, without a fixed start or end point. You can exit this relative mode using a specific shortcut.
+- **相对模式**: 目标设备的鼠标移动是相对于主机鼠标当前位置的。这意味着移动主机的鼠标会使目标设备的光标在相同方向上移动一定距离，而没有固定的起点或终点。您可以使用特定的快捷键退出此相对模式。
 
-## ⌨️ Keyboard
+## ⌨️ 键盘
 
-When the app is focused, you can type anything directly, and these keystrokes will be passed to the target's computer.
+当应用处于焦点时，您可以直接输入任何内容，这些按键将传递到目标计算机。
 
-## ⚙️ BIOS-Level Access
+## ⚙️ BIOS 级别访问
 
-- **BIOS Access**: Use our app to access the BIOS of your target devices. This allows you to control and configure settings directly from the BIOS.
+- **BIOS 访问**: 使用我们的应用访问目标设备的 BIOS。这使您可以直接从 BIOS 控制和配置设置。
 
-??? tip "Key strokes to enter BIOS for different motherboards"
+??? tip "不同主板进入 BIOS 的按键"
 
-    - F2: Dell, Lenovo, ASUS, Acer, Toshiba, Samsung, Sony
-    - F1: Lenovo
-    - Del: ASUS, Acer, Gigabyte, MSI
-    - F10: HP
-    - Assist button: Sony
-    - Option (⌥) key: Apple (to access the start manager)
+    - F2: 戴尔、联想、华硕、宏碁、东芝、三星、索尼
+    - F1: 联想
+    - Del: 华硕、宏碁、技嘉、微星
+    - F10: 惠普
+    - Assist 按钮: 索尼
+    - Option (⌥) 键: 苹果（访问启动管理器）
 
-## 🔊 Sound
+## 🔊 声音
 
-- **Audio Transmission**: The target computer's audio is transmitted via the HDMI input port of the mini-KVM. When using our app, the sound from the target computer will be played through the host computer, ensuring you hear everything seamlessly.
+- **音频传输**: 目标计算机的音频通过 mini-KVM 的 HDMI 输入端口传输。使用我们的应用时，目标计算机的声音将通过主机播放，确保您无缝听到所有内容。
 
-## 🎥 Video
+## 🎥 视频
 
-- **Video Display**: Our app allows you to view the target computer's screen seamlessly. It supports video resolutions up to 1920x1080 at 30Hz for display within the app. The maximum video input supported is up to 3840x2160 at 30Hz via HDMI. Additionally, with the use of an adapter, it can also accommodate VGA, Micro HDMI, DVI, and other video input sources.
+- **视频显示**: 我们的应用允许您无缝查看目标计算机的屏幕。它支持在应用内显示最高 1920x1080 分辨率、30Hz 的视频。通过 HDMI 输入，最大支持 3840x2160 分辨率、30Hz 的视频。此外，使用适配器，还可以兼容 VGA、Micro HDMI、DVI 和其他视频输入源。
 
-## 🔄 Switchable USB Port
+## 🔄 可切换 USB 端口
 
-- **Using the USB Port**: The mini-KVM features a switchable USB-A 2.0 port that can be toggled between the host and target computers, but not both simultaneously.
-- **Switching Methods**: 
-    - Hardware Switch: A physical toggle on the device
-    - Software Switch: A button in the host application
-- **Switch Logic**: For more detailed information on the logic of how the switchable USB port operates, including the interaction between hardware and software switches, initial setup, operational states, and state transitions, please refer to the [USB Switch documentation](usb-switch.md).
+- **使用 USB 端口**: mini-KVM 具有一个可在主机和目标计算机之间切换的 USB-A 2.0 端口，但不能同时连接两者。
+- **切换方法**: 
+    - 硬件切换: 设备上的物理开关
+    - 软件切换: 主机应用中的按钮
+- **切换逻辑**: 有关可切换 USB 端口操作逻辑的详细信息，包括硬件和软件开关之间的交互、初始设置、操作状态和状态转换，请参阅 [USB 切换文档](usb-switch.md)。
 
-!!! warning "Important"
-    - Remember to eject any connected USB drives before switching the port's connection.
-    - The USB port has power limitations. Do not connect devices that require a lot of power, as this may result in unstable operation or potential damage.
+!!! warning "重要提示"
+    - 切换端口连接前，请记得弹出任何已连接的 USB 驱动器。
+    - USB 端口有功率限制。不要连接需要大量电力的设备，否则可能导致操作不稳定或潜在损坏。

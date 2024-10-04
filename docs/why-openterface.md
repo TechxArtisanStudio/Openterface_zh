@@ -1,21 +1,21 @@
-# Why Openterface ?
+# 为什么选择Openterface？
 
-With various KVM solutions available, here's why it still win your heart:
+在众多KVM解决方案中，以下是Openterface赢得你青睐的原因：
 
-1. **Portability & Functionality**
+1. **便携性和功能性**
 
-    Designed with portability in mind, the Openterface Mini-KVM is a compact and lightweight gadget that can easily accompany you on the go. Featuring comprehensive capabilities such as BIOS-level access, audio integration, a switchable USB port, and text transfer, this device provides all the necessary tools to efficiently manage and troubleshoot your headless devices, wherever your work may lead.
+    Openterface Mini-KVM以便携性为设计理念，是一款紧凑轻便的小工具，随时随地陪伴你。它具备全面的功能，如BIOS级别访问、音频集成、可切换的USB端口和文本传输等，为你提供管理和排除无头设备故障所需的所有工具，无论你的工作地点在哪里。
 
-2. **Network-Free & On-the-Fly Troubleshooting**
+2. **无需网络，随时排障**
 
-    Unlike KVM-over-IP or software KVM solutions that rely on network access, the Openterface Mini-KVM offers a plug-and-play, network-independent experience. Our device establishes a direct HDMI and USB connection between the host computer and the target device, enabling you to take control and diagnose issues quickly, especially in environments where network connectivity is unreliable or unavailable. The hardware startup time is less than 1 second, ensuring you can jump right into troubleshooting without delays or disturbances in your workflow.
+    与依赖网络访问的KVM-over-IP或软件KVM解决方案不同，Openterface Mini-KVM提供即插即用、独立于网络的体验。我们的设备在主机和目标设备之间建立直接的HDMI和USB连接，使你能够快速控制和诊断问题，特别是在网络连接不可靠或不可用的环境中。硬件启动时间不到1秒，确保你可以立即开始排障，不会延误或打乱工作流程。
 
-3. **Wallet-Friendly Price**
+3. **价格亲民**
 
-    Unlike traditional KVM consoles that often come with a hefty price tag, our Mini-KVM is designed to be accessible and affordable to a broader spectrum of users, from IT professionals to tech enthusiasts.
+    与通常价格高昂的传统KVM控制台不同，我们的Mini-KVM设计为更多用户群体所能负担得起，从IT专业人士到技术爱好者都能轻松拥有。
 
-4. **Fully Open Source & Community**
+4. **完全开源与社区支持**
 
-    The real magic lies in our commitment to open-source development and community engagement. By embracing these principles, we’re building a vibrant ecosystem where users can collaborate, contribute, and customise the device to meet their unique needs, fostering innovation and pushing the boundaries of what’s possible. 👨‍💻🤝👩‍💻
+    真正的魅力在于我们对开源开发和社区参与的承诺。通过拥抱这些原则，我们正在构建一个充满活力的生态系统，用户可以在其中合作、贡献和定制设备，以满足他们的独特需求，推动创新，突破可能性的界限。👨‍💻🤝👩‍💻
 
-Learn more by [comparing Openterface to other KVM solutions](/comparison).
+通过[比较Openterface与其他KVM解决方案](/comparison)了解更多。

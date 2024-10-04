@@ -1,45 +1,45 @@
-# Contact Us
+# 联系我们
 
-We're delighted you're interested in reaching out to us. Whether you have questions, feedback, or just want to say hello, here are several ways to connect with us:
+我们很高兴您有兴趣与我们联系。无论您有任何问题、反馈，或只是想打个招呼，这里有几种方式可以与我们联系：
 
-## Official Contact Emails
+## 官方联系邮箱
 
-To ensure you're communicating with us securely and directly, please note our official contact email addresses. For any enquiries, support, or feedback, feel free to reach out to us at:
+为了确保您与我们安全直接地沟通，请注意我们的官方联系邮箱地址。如有任何咨询、支持或反馈，请随时通过以下邮箱联系我们：
 
-- **Primary Contact Email:** [info@techxartisan.com](mailto:info@techxartisan.com)
+- **主要联系邮箱:** [info@techxartisan.com](mailto:info@techxartisan.com)
 
-Additionally, any email address ending with the following domains is recognized as an official communication channel for our members and customers:
+此外，任何以以下域名结尾的邮箱地址，都是我们成员和客户的官方沟通渠道：
 
-- **TechxArtisan Domain:** *@techxartisan.com
-- **Openterface Domain:** *@openterface.com
+- **TechxArtisan 域名:** *@techxartisan.com
+- **Openterface 域名:** *@openterface.com
 
-Emails from these addresses are from our team, dedicated to providing you with the support and information you need.
+这些邮箱地址的邮件来自我们的团队，致力于为您提供所需的支持和信息。
 
-## Follow Us on Social Media
+## 关注我们的社交媒体
 
-Stay updated and engaged with us through our social media channels:
+通过我们的社交媒体渠道，保持更新并与我们互动：
 
-- :fontawesome-brands-reddit-alien: [Join our subreddit](/reddit)
-- :fontawesome-brands-x-twitter: [Follow us on Twitter](https://twitter.com/TechxArtisan)
-- :fontawesome-brands-facebook-f: [Like us on Facebook](https://www.facebook.com/TechxArtisan)
-- :fontawesome-brands-discord: [Join our Discord community](/discord)
-- :fontawesome-brands-youtube: [Subscribe to our YouTube channel](https://youtube.com/@TechxArtisan)
-- :fontawesome-brands-linkedin-in: [Follow us on LinkedIn](https://www.linkedin.com/company/techxartisan/)
+- :fontawesome-brands-reddit-alien: [加入我们的 subreddit](/reddit)
+- :fontawesome-brands-x-twitter: [关注我们的 Twitter](https://twitter.com/TechxArtisan)
+- :fontawesome-brands-facebook-f: [点赞我们的 Facebook](https://www.facebook.com/TechxArtisan)
+- :fontawesome-brands-discord: [加入我们的 Discord 社区](/discord)
+- :fontawesome-brands-youtube: [订阅我们的 YouTube 频道](https://youtube.com/@TechxArtisan)
+- :fontawesome-brands-linkedin-in: [关注我们的 LinkedIn](https://www.linkedin.com/company/techxartisan/)
 
-## Visit Our Studio Website
+## 访问我们的工作室网站
 
-For more information about us, our work and products, please visit our website:
+欲了解更多关于我们、我们的工作和产品的信息，请访问我们的网站：
 
-- :fontawesome-solid-globe: [TechxArtisan Official Website](https://techxartisan.com/en/)
+- :fontawesome-solid-globe: [TechxArtisan 官方网站](https://techxartisan.com/en/)
 
-## Trademark and Domain Ownership
+## 商标和域名所有权
 
-Openterface and TechxArtisan are trademarks of **Guangzhou Billio Technology Co., Ltd.** (Billio Tech), which serves as our official commercial entity. Billio Tech holds the final interpretative rights for both Openterface and TechxArtisan. 
+Openterface 和 TechxArtisan 是 **广州比利奥科技有限公司**（Billio Tech）的商标，Billio Tech 是我们的官方商业实体。Billio Tech 拥有 Openterface 和 TechxArtisan 的最终解释权。
 
-The domain Openterface.com is registered under Billio Tech, affirming our ownership and management of all associated official communications and operations.
+Openterface.com 域名由 Billio Tech 注册，确认我们对所有相关官方通信和运营的所有权和管理权。
 
-## About Our Company
+## 关于我们的公司
 
-- **Company Name:** Guangzhou Billio Technology Co., Ltd.
-- **Address:** Room 11, No. 1, Longjing North Street, Haizhu District, Guangzhou City, Guangdong Province, 510320 China
-- **Contact Information:** [info@techxartisan.com](mailto:info@techxartisan.com)
+- **公司名称:** 广州比利奥科技有限公司
+- **地址:** 中国广东省广州市海珠区龙井北街1号11室，邮编510320
+- **联系信息:** [info@techxartisan.com](mailto:info@techxartisan.com)

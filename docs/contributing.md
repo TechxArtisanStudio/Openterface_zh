@@ -1,88 +1,87 @@
-# Contributing
+# 贡献指南
 
-Hey there! So, you're interested in getting involved with Openterface mini-KVM's [community](/community) and contributing? Awesome! 🧡
+你好！你有兴趣参与Openterface mini-KVM的[社区](/community)并做出贡献吗？太棒了！🧡
 
-## Spreading the Word 📢
+## 传播信息 📢
 
-If you've found our Openterface gadget being handy and boosting your workflow, how about helping to spread the word? Sharing your story of how you use the mini-KVM in daily tasks by pictures or videos will be super appreciated! Whether it's a quick fix event, a cool setup or a unique integration into your workflow, we want to see it all! You could even write a post to share in our vibrant community on our subreddit at [/r/Openterface_miniKVM/](/reddit) or our Discord Server [TechxArtisan](/discord). Let's create some buzz together! 🚀 Cheers!
+如果你发现我们的Openterface设备对你的工作流程有帮助，为什么不帮忙宣传一下呢？分享你在日常任务中使用mini-KVM的照片或视频将非常受欢迎！无论是快速修复事件、酷炫的设置还是独特的工作流程整合，我们都想看到！你甚至可以在我们活跃的社区中写一篇帖子，发布在我们的subreddit [/r/Openterface_miniKVM/](/reddit)或我们的Discord服务器 [TechxArtisan](/discord)。让我们一起制造一些热度吧！🚀 谢谢！
 
-## How You Can Contribute 🌟
+## 你可以如何贡献 🌟
 
-We're all about keeping this project fresh and funky for our diverse gang of users. We're constantly jazzing things up and fixing bugs to keep the party going!
+我们致力于为多样化的用户群体保持这个项目的新鲜和有趣。我们不断改进和修复bug，以保持项目的活力！
 
-Your time is precious, we get it, and diving into bug reports and change requests can feel like wading through treacle. That's why we've rolled up our sleeves and fine-tuned our issue templates and guidelines to make it easier. Yep, we've sweated the small stuff to make sure our issue tracker of its [softwares](/quick-start/#install-host-application) and [hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) and [discussion board](https://github.com/TechxArtisanStudio/Openterface/discussions) run like a well-oiled machine.
+我们理解你的时间宝贵，处理bug报告和变更请求可能会让人感到繁琐。因此，我们精心优化了问题模板和指南，以便更轻松地使用。是的，我们关注细节，确保我们的[软件](/quick-start/#install-host-application)和[硬件](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)问题跟踪器和[讨论板](https://github.com/TechxArtisanStudio/Openterface/discussions)像一台运转良好的机器。
 
-Ready to dive in? Let's get started! 🏊‍♂️
+准备好开始了吗？让我们一起出发吧！🏊‍♂️
 
-## Reporting A Bug 🐛
+## 报告Bug 🐛
 
-Encountered a bug? No worries, it happens! Since we're still in the early stages of development, bugs are to be expected, especially in the following softwares. When you come across one, please check if it falls into these [basic operation tests](/basic). The more details you provide about the conditions when the bug occurred, the better equipped we'll be to address it. Please report any bugs you encounter to the corresponding Github repositories.
+遇到bug？别担心，这很正常！由于我们仍处于开发的早期阶段，bug是不可避免的，特别是在以下软件中。当你遇到bug时，请检查它是否属于这些[基本操作测试](/basic)。你提供的关于bug发生条件的详细信息越多，我们就越能有效地解决它。请将你遇到的任何bug报告到相应的Github仓库。
 
-- Navigate to: 
-    - [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (Work-in-progress): Host Applications for MacOS Support
-    - [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (Work-in-progress): Host Applications for Win & Linux Support
-    - [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware
-    ) (Work-in-progress): Schematics & Components
+- 导航到：
+    - [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS)（进行中）：MacOS支持的主机应用程序
+    - [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT)（进行中）：Windows和Linux支持的主机应用程序
+    - [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)（进行中）：原理图和组件
 
-- When reporting a bug, please:
-    - Specify the app version.
-    - Describe the environment of both the host computer and the target device.
-    - Provide detailed steps to reproduce the issue.
-    - Explain the expected outcome and the actual outcome.
-    - Including screenshots or video snippets would be highly appreciated! 📸🎥
+- 报告bug时，请：
+    - 指定应用程序版本。
+    - 描述主机电脑和目标设备的环境。
+    - 提供重现问题的详细步骤。
+    - 解释预期结果和实际结果。
+    - 包括截图或视频片段将非常有帮助！📸🎥
 
-Moreover, you can also join the Development channel **#openterface-dev** on [our Discord server](/discord), or you may try searching for 'TechxArtisan'.
+此外，你还可以加入我们Discord服务器上的开发频道**#openterface-dev**，或者搜索'TechxArtisan'。
 
-Feel free to bring up any issues. It’s a great place for all beta testers to discuss and share, which could really help us enhance the product.
+随时提出任何问题。这是所有测试人员讨论和分享的好地方，这对我们改进产品非常有帮助。
 
-## Fixing A Bug 🛠️
-If you have coding skills and experience, consider diving into our repo to identify, fork, fix, and submit pull requests.
+## 修复Bug 🛠️
+如果你有编程技能和经验，考虑深入我们的仓库，识别、分叉、修复并提交拉取请求。
 
-## Reporting A Docs Issue 📝
+## 报告文档问题 📝
 
-If you notice anything that seems off or outdated, we'd love your help to make it better.
+如果你发现任何不对劲或过时的地方，我们非常欢迎你的帮助来改进它。
 
-Here's how you can help:
+你可以这样帮助：
 
-- Spot the Problem: If you see something that doesn't quite look right in our docs, let us know!
-- Provide Details: Let us know what's amiss. Whether it's a typo, outdated information, or a confusing explanation, every detail helps.
-- Suggest Improvements: If you've got ideas on how to make things better, don't hold back! Your insights are invaluable in enhancing the user experience.
-- How to Report: Simply head over to our corresponding GitHub repository and create an issue detailing the problem. Include as much information as possible to help us understand and address the issue swiftly.
+- 发现问题：如果你在我们的文档中看到任何不对劲的地方，请告诉我们！
+- 提供详细信息：让我们知道哪里有问题。无论是拼写错误、过时信息还是解释不清，每个细节都很重要。
+- 提出改进建议：如果你有改进的想法，不要犹豫！你的见解对提升用户体验非常宝贵。
+- 如何报告：只需前往相应的GitHub仓库，创建一个详细描述问题的issue。提供尽可能多的信息，以帮助我们迅速理解和解决问题。
 
-Your contributions to improving our documentation are truly appreciated. Together, we can ensure users have access to the best possible resources.
+你对改进我们文档的贡献非常感谢。我们一起确保用户能获得最好的资源。
 
-## Help Translate Our Docs 🌍
+## 帮助翻译我们的文档 🌍
 
-We believe everyone should have access to our solution, no matter what language they speak. That's why we're calling on bilingual superstars like you to help translate our website and documentation into different languages.
+我们相信每个人都应该能够使用我们的解决方案，无论他们说什么语言。这就是为什么我们呼吁像你这样的双语高手帮助将我们的网站和文档翻译成不同的语言。
 
-If you're fluent in multiple languages and passionate about making technology accessible to people worldwide, we'd love your help!
+如果你精通多种语言，并且热衷于让技术对全球用户更易于访问，我们非常欢迎你的帮助！
 
-Reach out to us to find out how you can become a language ambassador for Openterface Mini-KVM and help us reach even more people with our solution.
+联系我们，了解如何成为Openterface Mini-KVM的语言大使，帮助我们将解决方案传递给更多人。
 
-## Help Improve Design 🎨
-First impressions matter, and the visual appeal of our product plays a crucial role in capturing users' attention and enhancing their overall experience. If you've got an eye for design and a knack for creating stunning visuals, we'd love your help in sprucing up our product graphics.
+## 帮助改进设计 🎨
+第一印象很重要，我们产品的视觉吸引力在吸引用户注意力和提升整体体验方面起着关键作用。如果你有设计眼光和创造惊人视觉效果的能力，我们非常欢迎你帮助美化我们的产品图形。
 
-Whether it's crafting eye-catching logos, designing sleek user interfaces for our host applications, creating engaging marketing materials, 3D Design for various cool casings, your creative touch can take our product aesthetics to the next level.
+无论是制作引人注目的标志、设计流畅的用户界面、创建吸引人的营销材料，还是为各种酷炫外壳进行3D设计，你的创意触觉可以将我们的产品美学提升到一个新的水平。
 
-If you're up for the challenge and eager to make a visual impact, get in touch with us to explore how you can lend your design expertise to elevate our product's appeal!
+如果你愿意接受挑战，并渴望产生视觉影响，请联系我们，探索如何利用你的设计专长提升我们产品的吸引力！
 
-## Help Mod Our Community 🤝
+## 帮助管理我们的社区 🤝
 
-Our community is like a big, friendly family, and we're looking for awesome folks like you to help keep it that way! If you're keen on keeping the peace and spreading good vibes, we'd love to have you as a moderator.
+我们的社区就像一个大家庭，我们正在寻找像你这样优秀的人来帮助保持这种氛围！如果你热衷于维持和平并传播积极的氛围，我们非常欢迎你成为一名版主。
 
-As a moderator, you'll:
+作为版主，你将：
 
-- Keep conversations positive and help sort out any squabbles.
-- Make sure everyone follows the rules so our community stays safe and welcoming.
-- Give a hand to users with questions and encourage folks to share their knowledge.
+- 保持对话积极，并帮助解决任何争端。
+- 确保每个人都遵守规则，使我们的社区保持安全和友好。
+- 帮助用户解答问题，并鼓励大家分享知识。
 
-Sound like your cup of tea? Get in touch, and let's chat about how you can join our mod squad!
+听起来像是你的菜吗？联系我们，聊聊你如何加入我们的版主团队！
 
-## And More Help 🚀
-Feeling inspired to contribute but don't quite fit into the categories above? No worries – there are plenty of other ways you can lend a helping hand!
+## 以及更多帮助 🚀
+如果你有贡献的灵感，但不完全符合上述类别，不用担心——还有很多其他方式可以提供帮助！
 
-Whether it's testing new features, providing feedback on user experience, or brainstorming innovative ideas, your input is invaluable in driving the success of Openterface Mini-KVM.
+无论是测试新功能、提供用户体验反馈，还是头脑风暴创新想法，你的意见对推动Openterface Mini-KVM的成功至关重要。
 
-Reach out to us via [email](mailto:info@techxartisan.com) and let us know how you'd like to get involved. Together, we can make Openterface Mini-KVM the best it can be!
+通过[email](mailto:info@techxartisan.com)联系我们，告诉我们你想如何参与。我们一起让Openterface Mini-KVM变得更好！
 
-Your support and contributions are what make Openterface Mini-KVM thrive. Thank you for being part of our journey towards excellence! 🚀
+你的支持和贡献是Openterface Mini-KVM蓬勃发展的动力。感谢你成为我们追求卓越旅程的一部分！🚀

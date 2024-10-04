@@ -1,91 +1,91 @@
-# Accessories
+# 配件
 
-Here, you'll find various products that complement and enhance the functionality of the Openterface Mini-KVM. We aim to provide a range of accessories that make your experience with our Mini-KVM even more versatile and convenient.
+在这里，您可以找到各种增强 Openterface Mini-KVM 功能的产品。我们致力于提供一系列配件，使您使用 Mini-KVM 的体验更加多样化和便捷。
 
-## VGA to HDMI Converter Cable
+## VGA 转 HDMI 转换线
 
 ![CABLE100-VGA2HDMI](images/product/part/CABLE100-VGA2HDMI-1.jpg){:style="height:360px"}
 
-This product converts VGA video and integrates audio into HDMI, enabling easy connection of VGA devices to HDMI displays.
+此产品将 VGA 视频和音频整合到 HDMI 中，方便将 VGA 设备连接到 HDMI 显示器。
 
-- **Model**: CABLE100-VGA2HDMI
-- **Length**: 1M
-- **Output Video Resolution**: 1920x1080P Full HD
-- **Input Audio**: 3.5mm audio jack
-- **Audio Out**: via HDMI
-- **Power Supply**: Powered via USB
+- **型号**: CABLE100-VGA2HDMI
+- **长度**: 1米
+- **输出视频分辨率**: 1920x1080P 全高清
+- **输入音频**: 3.5mm 音频插孔
+- **音频输出**: 通过 HDMI
+- **电源供应**: 通过 USB 供电
 
-### Use Case
-For a detailed use case of this cable, please visit [Streamlined Server Management](/use-cases/#streamlined-server-management).
+### 使用案例
+有关此线缆的详细使用案例，请访问 [简化的服务器管理](/use-cases/#streamlined-server-management)。
 
-### Demo Video
-Watch the demo video by Tech influencer **Cameron Gray** on how to use this cable with the Mini-KVM: [This USB KVM Console is Awesome!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
+### 演示视频
+观看科技影响者 **Cameron Gray** 演示如何使用此线缆与 Mini-KVM: [这个 USB KVM 控制台太棒了！](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
 
-<button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'">Place Order</button>
+<button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'">下单</button>
 
 ---
 
-## Type-C to USB-A Cable with Adapter
+## Type-C 转 USB-A 线缆及适配器
 
 ![C2A-30-Cable](images/product/part/OP-04-CABLE30-C2A.jpg){:style="height:360px"}
 
-This versatile Type-C Male to USB-A Male cable, paired with a USB-A Female to USB-C Male adapter, offers flexible connectivity to target devices. It allows for data transfer and transmission of keyboard and mouse control signals, regardless of whether the target device uses a USB-A or Type-C port.
+这款多功能 Type-C 公对 USB-A 公线缆，配有 USB-A 母对 USB-C 公适配器，提供灵活的目标设备连接。无论目标设备使用 USB-A 还是 Type-C 接口，它都能实现数据传输和键盘鼠标控制信号的传输。
 
-- **Length**: 0.3m
-- **Colour**: Black
-- **Adapter**: USB-A Female to USB-C Male
-- **Use**: Facilitates easy control and data transfer to the target device.
+- **长度**: 0.3米
+- **颜色**: 黑色
+- **适配器**: USB-A 母对 USB-C 公
+- **用途**: 便于控制和数据传输到目标设备。
 
 ---
 
-## Type-C to Type-C Cable with Adapter
+## Type-C 对 Type-C 线缆及适配器
 
 ![C2C-150-Cable](images/product/part/OP-05-CABLE150-C2C.jpg){:style="height:360px"}
 
-This stylish and soft-feel Type-C Male-to-Male cable in vibrant orange is designed for host computer connections. It comes with a USB-C Female to USB-A Male adapter for enhanced compatibility, ensuring you can connect to host computers using either Type-C or USB-A ports. Additionally, this cable supports **240W fast charging** (Voltage DC50V, Current 5A, Power 240W), making it perfect not only for our Mini-KVMs but also for charging your mobile phone or laptop.
+这款时尚且手感柔软的 Type-C 公对公线缆，采用亮橙色设计，适用于主机连接。配有 USB-C 母对 USB-A 公适配器，确保您可以连接使用 Type-C 或 USB-A 接口的主机。此外，此线缆支持 **240W 快速充电**（电压 DC50V，电流 5A，功率 240W），不仅适用于我们的 Mini-KVM，还适用于为手机或笔记本电脑快速充电。
 
-- **Length**: 1.5m
-- **Colour**: Orange
-- **Adapter**: USB-C Female to USB-A Male
-- **Use**: For high-speed data transfer between the host computer and the Mini-KVM, and for fast charging mobile phones or laptops.
+- **长度**: 1.5米
+- **颜色**: 橙色
+- **适配器**: USB-C 母对 USB-A 公
+- **用途**: 用于主机与 Mini-KVM 之间的高速数据传输，以及为手机或笔记本电脑快速充电。
 
 ---
 
-## HDMI Male-to-Male Cable
+## HDMI 公对公线缆
 
 ![HDMI-Cable](images/product/part/OP-03-CABLE30-HDMI.jpg){:style="height:360px"}
 
-This compact HDMI cable is perfect for connecting your target device to capture video output, ensuring seamless integration with your Openterface Mini-KVM.
+这款紧凑的 HDMI 线缆非常适合将目标设备连接到 Mini-KVM，以捕获视频输出，确保与 Openterface Mini-KVM 的无缝集成。
 
-- **Length**: 0.3m
-- **Colour**: Black
-- **Use**: Ideal for high-definition video transmission from the target device to the Mini-KVM.
+- **长度**: 0.3米
+- **颜色**: 黑色
+- **用途**: 适用于从目标设备到 Mini-KVM 的高清晰度视频传输。
 
 ---
 
-## Openterface Toolkit Bag
+## Openterface 工具包
 
 ![Toolkit-bag](images/product/part/OP-06-BAG-TOOLKIT.jpg){:style="height:360px"}
 
-Keep your Openterface Mini-KVM and its accessories organised and portable with this compact toolkit bag. Featuring a stylish orange zipper and stretchy mesh pockets, this bag ensures excellent cable management and ease of transport, perfect for IT professionals on the go.
+使用这个紧凑的工具包，保持您的 Openterface Mini-KVM 及其配件整齐有序。配有时尚的橙色拉链和弹性网袋，这个包确保了出色的线缆管理和便携性，非常适合外出工作的 IT 专业人士。
 
-- **Dimensions**: 180 x 115 x 50mm
-- **Colour**: Black with orange zipper
-- **Use**: Ideal for storing and organising your Mini-KVM and its cables.
+- **尺寸**: 180 x 115 x 50毫米
+- **颜色**: 黑色配橙色拉链
+- **用途**: 适用于存放和整理您的 Mini-KVM 及其线缆。
 
 ---
 
-## Extension Pin Cap
+## 扩展针帽
 
 ![pin-cap](images/product/part/pin-cap.jpg){:style="height:360px"}
 
-This 3D-printed Extension Pin Cap replaces the original cap on the Openterface Mini-KVM, allowing advanced users to expose and access extension pins for custom development. You can download the 3D model files from our GitHub repository and print the cap yourself.
+这个 3D 打印的扩展针帽替换了 Openterface Mini-KVM 的原始针帽，允许高级用户暴露和访问扩展针进行自定义开发。您可以从我们的 GitHub 仓库下载 3D 模型文件并自行打印针帽。
 
-- **Use**: Provides access to extension pins for advanced hardware development.
-- **Download**: [3D Model Files](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/models)
+- **用途**: 提供访问扩展针的功能，适用于高级硬件开发。
+- **下载**: [3D 模型文件](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/models)
 
 ---
 
-## More Coming Soon
+## 更多即将推出
 
-Stay tuned for more accessories that will be added to this section, designed to enhance your Openterface Mini-KVM experience.
+敬请期待更多将添加到此部分的配件，旨在增强您的 Openterface Mini-KVM 体验。

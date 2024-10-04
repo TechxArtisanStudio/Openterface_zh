@@ -1,95 +1,89 @@
-# Test & Dev
+# 测试与开发
 
-## 💻 Compatibility
+## 💻 兼容性
 
-- **OS Support**: Verify that different OS versions can use the corresponding host app.
-- **Performance Testing**: Evaluate performance on various host systems.
-- **OS Version Testing**: Ensure compatibility across different OS versions.
-- **Device-Specific Issues**: Identify and resolve issues specific to certain devices or OS versions.
+- **操作系统支持**: 确保不同版本的操作系统可以使用相应的主机应用程序。
+- **性能测试**: 评估在各种主机系统上的性能。
+- **操作系统版本测试**: 确保在不同操作系统版本之间的兼容性。
+- **设备特定问题**: 识别并解决特定设备或操作系统版本的问题。
 
-## 🖱 Mouse Control
-
-<div class="annotate" markdown>
-
-- **Movement Latency**: Ensure smooth and responsive control.
-- **Mouse Buttons**: Test left, right, and middle mouse buttons; click & drag.
-- **Scrolling**: Evaluate scrolling speed and direction.
-- **Accuracy** of mouse position mapping in *Absolute* mode (1)
-- **Sensitivity** of mouse movement in *Relative* mode (2)
-
-</div>
-
-1. Ensure the target's mouse position is accurately mapped to the host's. This can be impacted by the target's resolution and changes in app window size.
-2. Ensure the mouse movement meets intuitive expectations.
-
-## ⌨️ Keyboard
+## 🖱 鼠标控制
 
 <div class="annotate" markdown>
 
-- **Typing Responsiveness**: Ensure it meets intuitive expectations.
-- **Full Keyboard Mapping**: Especially for various special symbols.
-- **Modifiers**: Keys like `Ctrl`, `Shift`, `Alt` and `Cmd`, or `Win`.
-- **Key Combinations**: Technically supports up to 8 modifier keys and 6 additional keys pressed simultaneously.
-- **Media & ACPI Keys**: Keys like `Volume-`, `Volume+`, `Mute`, `Wake-up`, `Sleep` and `Power`.
-- **Keyboard Layouts**: Ensure consistent pairing for various layouts. (1)
-
-!!! tip
-
-    - **Keyboard Tester**: You can utilize an online keyboard testing tool on both the host and target computers to verify whether their keystrokes are synchronized.
-    - **CH9329 Chip**: Check [the details](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/CH9329) to understand the limits of keyboard/mouse control in the Openterface Mini-KVM.
+- **移动延迟**: 确保控制平滑且响应迅速。
+- **鼠标按钮**: 测试左键、右键和中键的点击和拖动功能。
+- **滚动**: 评估滚动速度和方向。
+- **准确性**: 确保在*绝对*模式下鼠标位置映射的准确性 (1)
+- **灵敏度**: 确保在*相对*模式下鼠标移动的灵敏度 (2)
 
 </div>
 
-1. ⌨️ 🌏 Keyboard layouts vary globally across regions and languages, with popular types like QWERTY, AZERTY, QWERTZ, and Dvorak.
+1. 确保目标设备的鼠标位置准确映射到主机。这可能会受到目标设备分辨率和应用窗口大小变化的影响。
+2. 确保鼠标移动符合直观预期。
 
-## ⚙️ BIOS-Level Access
+## ⌨️ 键盘
 
-- **BIOS Entry**: Test entering BIOS during the boot sequence.
-- **Functionality**: Ensure full keyboard and mouse control within the BIOS.
-- **Compatibility**: Verify BIOS access across different motherboard brands and models.
+<div class="annotate" markdown>
 
-## 🔊 Sound
+- **打字响应**: 确保打字响应符合直观预期。
+- **完整键盘映射**: 特别是各种特殊符号。
+- **修饰键**: 像`Ctrl`、`Shift`、`Alt`和`Cmd`或`Win`键。
+- **组合键**: 技术上支持最多8个修饰键和6个额外键同时按下。
+- **媒体和ACPI键**: 像`音量-`、`音量+`、`静音`、`唤醒`、`睡眠`和`电源`键。
+- **键盘布局**: 确保各种布局的一致配对。(1)
 
-- **Sound Quality**: Evaluate the clarity and synchronisation of audio playback.
-- **Latency**: Measure any delays between actions and their corresponding sound.
-- **Compatibility**: Test various audio outputs on different operating systems.
+!!! 提示
 
-## 🎥 Video
+    - **键盘测试器**: 你可以在主机和目标计算机上使用在线键盘测试工具，验证它们的按键是否同步。
+    - **CH9329芯片**: 查看[详细信息](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/CH9329)，了解Openterface Mini-KVM中键盘/鼠标控制的限制。
 
-- **Resolution Support**: Test various screen resolutions and aspect ratios.
-- **Frame Rate**: Assess performance at different refresh rates.
-- **Display Quality**: Check for any visual artefacts or latency issues.
+</div>
 
-## 🔄 Switchable USB Port
+1. ⌨️ 🌏 键盘布局在不同地区和语言中有所不同，常见的有QWERTY、AZERTY、QWERTZ和Dvorak。
 
-- **Toggle Switch Testing**: Test the toggle switch under various scenarios for reliability.
-- **Port Compatibility**: Ensure the USB-A 2.0 port supports various USB devices like flash drives and webcams.
-- **Power Limitations**: Confirm the port’s power supply capacity and its adequacy for different devices.
+## ⚙️ BIOS级别访问
 
-## 🔌 Plug & Un-Plug
+- **进入BIOS**: 测试在启动过程中进入BIOS。
+- **功能性**: 确保在BIOS中完全控制键盘和鼠标。
+- **兼容性**: 验证不同主板品牌和型号的BIOS访问。
 
-- **Connection Testing**: Test scenarios with different connection and disconnection sequences.
-- **Error Handling**: Ensure device recognises and recovers from improper connections.
-- **Stability**: Verify stability when devices are plugged and unplugged repeatedly.
+## 🔊 声音
 
-## 📝 Text Transfer
+- **音质**: 评估音频播放的清晰度和同步性。
+- **延迟**: 测量动作与相应声音之间的延迟。
+- **兼容性**: 测试不同操作系统上的各种音频输出。
 
-- **Functionality Testing**: Verify that the host application can successfully transfer text from the host computer to the target device using ASCII codes.
+## 🎥 视频
 
-- **Content Integrity**: Ensure the text content transferred from the host to the target device remains intact and is accurately reproduced.
+- **分辨率支持**: 测试各种屏幕分辨率和纵横比。
+- **帧率**: 评估在不同刷新率下的性能。
+- **显示质量**: 检查是否有任何视觉伪影或延迟问题。
 
-- **Special Characters Handling**: Test the text transfer feature with various ASCII characters to ensure proper handling and reproduction on the target device.
+## 🔄 可切换USB端口
 
-- **Text Length Testing**: Test the text transfer feature with text of varying lengths to verify that it can accommodate different text sizes without issues.
+- **切换开关测试**: 在各种情况下测试切换开关的可靠性。
+- **端口兼容性**: 确保USB-A 2.0端口支持各种USB设备，如闪存驱动器和网络摄像头。
+- **电源限制**: 确认端口的电源供应能力及其对不同设备的适用性。
 
-- **Error Handling**: Test error scenarios, such as loss of connection or interruption during text transfer, to ensure the host application handles these situations gracefully and provides appropriate feedback to the user.
+## 🔌 插拔
 
-- **Performance Testing**: Evaluate the performance of the text transfer feature under various conditions, including on older or slower computers, to identify any potential issues with mis-receiving HID input signals and ensure smooth operation.
+- **连接测试**: 测试不同连接和断开顺序的场景。
+- **错误处理**: 确保设备识别并从不正确的连接中恢复。
+- **稳定性**: 验证设备在反复插拔时的稳定性。
 
-- **User Interface Testing**: Ensure the user interface of the host application provides intuitive controls and feedback for initiating and monitoring text transfer operations, making it easy for users to understand and use this feature effectively.
+## 📝 文本传输
 
-## Additional
+- **功能测试**: 确保主机应用程序可以成功将文本从主机计算机传输到目标设备，使用ASCII码。
+- **内容完整性**: 确保从主机传输到目标设备的文本内容保持完整并准确再现。
+- **特殊字符处理**: 使用各种ASCII字符测试文本传输功能，确保正确处理和再现。
+- **文本长度测试**: 使用不同长度的文本测试文本传输功能，确保其能够适应不同文本大小而不出现问题。
+- **错误处理**: 测试错误场景，如连接丢失或传输中断，确保主机应用程序能优雅地处理这些情况并向用户提供适当的反馈。
+- **性能测试**: 在各种条件下评估文本传输功能的性能，包括在较旧或较慢的计算机上，识别任何可能的HID输入信号接收问题，确保操作顺畅。
+- **用户界面测试**: 确保主机应用程序的用户界面提供直观的控制和反馈，用于启动和监控文本传输操作，使用户能够轻松理解和使用此功能。
 
-- **Error Handling**: Test error handling mechanisms for graceful recovery from disruptions.
-- **Performance**: Assess the mini-KVM’s performance under various workload scenarios.
-- **Stability**: Conduct stress tests for long-term stability and reliability.
+## 其他
+
+- **错误处理**: 测试错误处理机制，以便从中断中优雅地恢复。
+- **性能**: 在各种工作负载场景下评估mini-KVM的性能。
+- **稳定性**: 进行压力测试，以确保长期稳定性和可靠性。

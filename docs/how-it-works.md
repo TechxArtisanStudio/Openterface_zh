@@ -1,11 +1,11 @@
-# How It Works
+# 工作原理
 
-## Process Breakdown
+## 过程解析
 
-- **Screen Streaming**: The mini-KVM captures the screen stream from the target computer and displays it on the host computer’s app. This allows users to view and manage the target system directly from their host machine.
-- **Cursor and Mouse Control**: By moving the mouse to the app window on the host computer, users can control the cursor on the target device as if they were using a VNC. This functionality enables operating two systems simultaneously on one screen.
-- **Keyboard Input**: When the app window is active, any keystrokes made on the host computer’s keyboard are transmitted to the target device, allowing for seamless typing and command entry.
-- **HID Signal Conversion**: All keyboard and mouse inputs within the app are converted into Human Interface Device (HID) control signals, which are then sent to the target computer.
-- **Synchronization**: The app ensures that the target computer’s screen and cursor are synchronized with the host computer’s display, facilitating a unified user experience.
+- **屏幕传输**：mini-KVM 从目标计算机捕获屏幕流，并在主机计算机的应用程序上显示。这使用户可以直接从主机设备查看和管理目标系统。
+- **光标和鼠标控制**：通过在主机计算机的应用程序窗口中移动鼠标，用户可以像使用 VNC 一样控制目标设备上的光标。这一功能使得在一个屏幕上同时操作两个系统成为可能。
+- **键盘输入**：当应用程序窗口处于活动状态时，主机计算机键盘上的任何按键都会传输到目标设备，实现无缝的打字和命令输入。
+- **HID 信号转换**：应用程序内的所有键盘和鼠标输入都会转换为人机界面设备（HID）控制信号，然后发送到目标计算机。
+- **同步**：应用程序确保目标计算机的屏幕和光标与主机计算机的显示同步，提供统一的用户体验。
 
-You may explore Openterface Open-source [Software](/app) and [Hardware](/open-hardware) for more details.
+您可以探索 Openterface 开源的[软件](/app)和[硬件](/open-hardware)以了解更多详情。

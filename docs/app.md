@@ -1,12 +1,12 @@
-# Open Software
+# 开源软件
 
-## Host Apps
+## 主机应用程序
 
 <div class="container">
     <img src="/images/product/win_qt_app.jpg" alt="Poster Image" class="poster-image-shadow">
 </div>
 
-To use this mini-KVM, the host computer must install one of the below host applications. 
+要使用这个 mini-KVM，主机电脑必须安装以下其中一个主机应用程序。
 
 <div class="grid cards" markdown>
 
@@ -14,52 +14,52 @@ To use this mini-KVM, the host computer must install one of the below host appli
 
     ---
 
-    Download the Openterface QT app for Windows
+    下载适用于 Windows 的 Openterface QT 应用程序
 
-    [:octicons-download-24: Download v0.0.3](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/v0.0.3/openterfaceQT.windows.amd64.exe)  <br>
+    [:octicons-download-24: 下载 v0.0.3](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/v0.0.3/openterfaceQT.windows.amd64.exe)  <br>
     [:octicons-mark-github-16: Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT)  <br>
-    [:octicons-play-24: Watch Demo](https://youtu.be/ERzpGtRvP2o?si=e9k402f0nxsD8o2j)
+    [:octicons-play-24: 观看演示](https://youtu.be/ERzpGtRvP2o?si=e9k402f0nxsD8o2j)
 
 -   :fontawesome-brands-apple:{ .lg .middle } __macOS__
 
     ---
 
-    Get Openterface for macOS from the App Store
+    从 App Store 获取适用于 macOS 的 Openterface
 
     [:octicons-arrow-right-24: App Store](http://appstore.com/mac/openterface) <br>
     [:octicons-mark-github-16: Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS)  <br>
-    [:octicons-play-24: Watch Demo](https://youtu.be/m7OpUem0zqY?si=tclfl0Jl77tmE6_e)
+    [:octicons-play-24: 观看演示](https://youtu.be/m7OpUem0zqY?si=tclfl0Jl77tmE6_e)
 
 -   :fontawesome-brands-linux:{ .lg .middle } __Linux__
 
     ---
 
-    Build from source for Linux QT app
+    构建适用于 Linux 的 QT 应用程序
 
     [:octicons-mark-github-16: Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT)  <br>
-    [:octicons-play-24: Watch Demo](https://youtu.be/_ScpI6TC0Pk?si=FSg7A2zmST8QbFec)
+    [:octicons-play-24: 观看演示](https://youtu.be/_ScpI6TC0Pk?si=FSg7A2zmST8QbFec)
 
 -   :fontawesome-brands-android:{ .lg .middle } __Android__
 
     ---
 
-    Android version is currently in development
+    Android 版本正在开发中
 
-    [:octicons-clock-24: Coming Soon](https://github.com/TechxArtisanStudio/Openterface_Android)  <br>
-    [:octicons-play-24: Watch Demo](https://x.com/TechxArtisan/status/1825460088922071398)
+    [:octicons-clock-24: 敬请期待](https://github.com/TechxArtisanStudio/Openterface_Android)  <br>
+    [:octicons-play-24: 观看演示](https://x.com/TechxArtisan/status/1825460088922071398)
 
 </div>
 
-Check out [Basic Control](/basic) and [How it Works](/how-it-works) for more.
+查看 [基本控制](/basic) 和 [工作原理](/how-it-works) 了解更多信息。
 
-## OSI Compliance
+## OSI 合规性
 
 ![Open Source Initiative®](images/trademark/open-source-initiative.svg){:style="height:120px"}
 
-Our apps for the Openterface Mini-KVM are licensed under the **AGPL-3.0**, an **Open Source Initiative®** approved license. The **OSI logo®** is the trademark of the Open Source Initiative, and we proudly comply with the Open Source Definition. For more information, visit the Open Source Initiative at http://opensource.org and our Openterface's Github repositories.
+我们的 Openterface Mini-KVM 应用程序遵循 **AGPL-3.0** 许可证，这是 **开源倡议®** 批准的许可证。**OSI 标志®** 是开源倡议的商标，我们自豪地遵守开源定义。欲了解更多信息，请访问 http://opensource.org 和我们的 Openterface 的 Github 仓库。
 
-## Join Our Development
+## 加入我们的开发
 
-The above host applications are **currently under development**. We are actively coding 🛠️ and enhancing them as we go! 💪 If you're interested in contributing and want to be part of an innovative development team, [join us now!](mailto:info@techxartisan.com) 🚀
+上述主机应用程序**正在开发中**。我们正在积极编码 🛠️ 并不断改进！💪 如果您有兴趣贡献并希望成为创新开发团队的一员，[立即加入我们！](mailto:info@techxartisan.com) 🚀
 
-Interested in the hardware side? Check out our [Open Hardware](/open-hardware) page to explore the device's schematics, components, and even contribute to its physical design! 🔧🖥️
+对硬件感兴趣？请查看我们的 [开源硬件](/open-hardware) 页面，探索设备的原理图、组件，甚至参与其物理设计！🔧🖥️

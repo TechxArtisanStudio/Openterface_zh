@@ -9,42 +9,41 @@ tags:
   - Software KVM
 ---
 
-# Comparison
+# 比较
 
-## **How is this Mini-KVM different from KVM-over-IP?**
+## **这个 Mini-KVM 与 KVM-over-IP 有什么不同？**
 
-1. **Network Independence**: Our Openterface mini-KVM uses a direct USB connection for control, whereas KVM-over-IP relies on network connectivity, which requires extra effort and time to set up for new target devices.
-2. **Stable Performance**: Mini-KVM offers fast and stable performance without being affected by network quality, in contrast to KVM-over-IP, which can be impacted by network speed and stability.
-3. **Portability**: The Mini-KVM is designed for portability and ease of use with nearby headless devices, making it better to deal with uncertain situations where network access is limited or unavailable.
-4. **Direct File Transfer**: The Mini-KVM supports stable file transfers between the host and target devices through a switchable USB-A port with plugging in a usb stick. This is a feature that might not be as straightforward with some KVM-over-IP solutions.
-6. **Target Audience**: Mini-KVM is particularly suitable for tech enthusiasts and IT professionals who require a quick and reliable solution for configuring or troubleshooting nearby headless devices, whereas KVM-over-IP is often used in environments with a stable network where remote access over IP is a priority.
+1. **网络独立性**：我们的 Openterface mini-KVM 使用直接的 USB 连接进行控制，而 KVM-over-IP 依赖于网络连接，这需要额外的时间和精力来为新目标设备设置。
+2. **稳定性能**：Mini-KVM 提供快速且稳定的性能，不受网络质量影响，而 KVM-over-IP 可能会受到网络速度和稳定性的影响。
+3. **便携性**：Mini-KVM 设计为便携且易于使用，适用于附近的无头设备，特别是在网络访问有限或不可用的情况下。
+4. **直接文件传输**：Mini-KVM 通过可切换的 USB-A 端口支持主机和目标设备之间的稳定文件传输，这一功能在某些 KVM-over-IP 解决方案中可能不那么简单。
+5. **目标用户**：Mini-KVM 特别适合需要快速可靠解决方案来配置或排除附近无头设备故障的技术爱好者和 IT 专业人员，而 KVM-over-IP 通常用于网络稳定、优先考虑通过 IP 进行远程访问的环境。
 
-## **How is this different from traditional KVM solutions?**
+## **与传统 KVM 解决方案有何不同？**
 
-1. **Portability:** The Openterface Mini-KVM is designed for portability, making it ideal for tech enthusiasts and IT professionals who need a compact solution. It looks cool and small enough to throw into your backpack. Traditional KVM switches tend to be larger and suited for stationary setups for 24/7 operation. 
-2. **Control Mechanism and Integration:** Traditional KVM switches use pure hardware-based switching mechanisms, allowing control of only one computer at a time. In contrast, the Openterface Mini-KVM combines hardware and software, enabling the control of both the host and target devices through a single interface on the host computer or host laptop. This integrated approach facilitates seamless switching between host and target at the app window level, significantly improving workflow efficiency.
-3. **Functionality:** While the Openterface Mini-KVM focuses on 1-to-1 direct control over USB and HDMI video capture, traditional KVM switches may offer a wider range of functionalities including multi-device control via USB, VGA, DVI, HDMI, audio support, and sometimes even remote access capabilities over the network.
-4. **Power Supply:** the mini-KVM does not require an external power supply, as it is designed to be powered through its USB-C connections from the host, enhancing its portability. Traditional KVMs are sationary solutions that need extra power supply.
+1. **便携性**：Openterface Mini-KVM 设计为便携，适合需要紧凑解决方案的技术爱好者和 IT 专业人员。它看起来很酷，小到可以放进背包。传统的 KVM 切换器通常较大，适合固定的 24/7 操作设置。
+2. **控制机制和集成**：传统的 KVM 切换器使用纯硬件切换机制，只能同时控制一台计算机。相比之下，Openterface Mini-KVM 结合了硬件和软件，允许通过主机计算机或主机笔记本上的单一界面控制主机和目标设备。这种集成方法在应用窗口级别实现了无缝切换，大大提高了工作效率。
+3. **功能**：Openterface Mini-KVM 专注于通过 USB 和 HDMI 视频捕获进行一对一直接控制，而传统的 KVM 切换器可能提供更广泛的功能，包括通过 USB、VGA、DVI、HDMI、音频支持的多设备控制，有时甚至包括通过网络的远程访问功能。
+4. **电源供应**：Mini-KVM 不需要外部电源，因为它设计为通过主机的 USB-C 连接供电，增强了其便携性。传统的 KVM 是固定解决方案，需要额外的电源。
 
+## **Mini-KVM、传统 KVM 和 VNC 的比较**
 
-## **Comparison between our Mini-KVM, traditional KVM, and VNC**
+| 比较类别                  | Openterface Mini-KVM                         | 传统 KVM 切换器                              | 传统 VNC                                        |
+|---------------------------|----------------------------------------------|----------------------------------------------|-------------------------------------------------|
+| 🎮 方法与限制             | 本地，电缆限制                               | 本地，电缆限制                               | 本地/远程，网络限制                             |
+| 🚀 便携性                 | 高度便携，易于设置                           | 固定，笨重                                   | 基于软件，不适用                                |
+| 🛠️ 安装复杂性            | 即插即用，设置简单                           | 设置适中，需要外设                           | 网络和软件设置，复杂                            |
+| 🖥️ 控制界面               | 主机软件界面                                 | 物理切换界面                                 | 主机软件界面                                    |
+| 👁️ 用户界面               | 直观的应用程序界面                           | 物理切换，无软件                             | 可变的软件界面                                  |
+| 🔄 跨操作系统兼容性       | 完全兼容多种操作系统                         | 取决于型号和连接                             | 需要兼容的软件                                  |
+| 🖼️ 屏幕分辨率             | 通过 HDMI 提供高质量                         | 随电缆和 KVM 变化                            | 随软件和网络变化                                |
+| 🔑 访问 BIOS              | 是                                           | 是                                           | 否                                             |
+| 📁 文件传输               | 通过可切换的 USB-A 端口进行硬件传输          | 不可用                                       | 基于软件，依赖网络                              |
+| 💻 多设备支持             | 一对一，由一个主机和硬件决定                 | 一对多，由一个物理设置决定                   | 多对多，由网络和软件决定                       |
+| 🔌 电缆和配件             | 较少的电缆（HDMI，Type-C 到 USB-A）          | 多种（视频电缆，键盘，鼠标等）               | 需要网络                                       |
+| 📱 软件                   | 需要 macOS 主机应用程序                      | 基本操作不需要额外软件                       | 主机和目标设备上需要客户端软件                 |
+| ⚡️ 电源供应               | 不需要外部电源                               | 通常需要外部电源                             | 不适用（基于软件）                             |
 
-| Comparison Category        | Openterface Mini-KVM                         | Traditional KVM Switch                        | Traditional VNC                                  |
-|----------------------------|----------------------------------------------|-----------------------------------------------|--------------------------------------------------|
-| 🎮 Method & Limitation     | Local, cable-limited                         | Local, cable-limited                          | ocal/Remote, network-limited                     |
-| 🚀 Portability             | Highly portable, easy setup                  | Stationary, bulky                             | Software-based, not applicable                   |
-| 🛠️ Installation Complexity | Plug-and-play, minimal setup                 | Moderate setup, peripherals required          | Network and software setup, complex              |
-| 🖥️ Control Interface       | Host software interface                      | Physical switch interface                     | Host software interface                          |
-| 👁️ User Interface          | Intuitive app-based                          | Physical switching, no software               | Variable software interface                      |
-| 🔄 Cross-OS Compatibility  | Fully compatible with multiple OS            | Depends on model and connections              | Compatible software required                     |
-| 🖼️ Screen Resolution       | High-quality via HDMI                        | Varies with cable and KVM                     | Varies with software and network                 |
-| 🔑 Access to BIOS          | Yes                                          |  Yes                                          | No                                               |
-| 📁 File Transfer           | Hardware-based via its switchable USB-A      | Not available                                 | Software-based, network-dependent                |
-| 💻 Multi-Device Support    | 1-to-1, by one host and hardware-dependent   | 1-to-N, by one physical setup                 | N-to-N, by network and software-dependent        |
-| 🔌 Cables & Accessories    | Fewer cables (HDMI, Type-C to USB-A)         | Multiple (Video Cable, Keyboard, Mouse, etc.) | Network required                                 |
-| 📱 Software                | macOS host app required                      | No additional software for basic operation    | Client software on both host and target          |
-| ⚡️ Power Supply             | No external power needed                     | External power often required                 | Not applicable (software-based)                  |
+上面的比较表旨在提供每种解决方案如何满足不同用户需求的清晰概述，帮助您为您的独特设置选择最合适的选项。
 
-Our comparison table above is designed to provide a clear overview of how each solution aligns with different user needs, helping you choose the most suitable option for your unique setup.
-
-In summary, the **Openterface Mini-KVM** stands out for its ^^portability, ease of installation, and the intuitive app-based control interface^^. It excels in providing ==a stable, high-quality connection for a one-to-one host-target interaction without requiring network and external power==. In contrast, traditional KVM solutions offer physical switching between multiple devices, but often at the cost of portability and setup simplicity. VNC, while flexible in allowing multiple hosts to connect to multiple devices over a network, relies heavily on software and network quality.
+总之，**Openterface Mini-KVM** 因其便携性、易于安装和直观的应用程序控制界面而脱颖而出。它在提供稳定、高质量的一对一主机-目标交互连接，无需网络和外部电源方面表现出色。相比之下，传统的 KVM 解决方案提供多设备之间的物理切换，但往往以牺牲便携性和设置简便性为代价。VNC 虽然在允许多个主机通过网络连接到多个设备方面具有灵活性，但严重依赖于软件和网络质量。
