@@ -10,12 +10,12 @@ repo_url: https://github.com/TechxArtisanStudio/Openterface
 
 # Copyright
 copyright: >-
-  Copyright &copy; All rights reserved. 2023 <a href="https://www.openterface.com">Openterface</a> | <a href="https://www.techxartisan.com">TechxArtisan</a> | Guangzhou Billio Tech. Co., Ltd. <br>
-  <a href="">Home</a> |
-  <a href="/terms-of-service">Terms of Service</a> |
-  <a href="/privacy-policy">Privacy Policy</a> | 
-  <a href="#__consent">Cookie Settings</a> | 
-  <a href="/contact">Contact Us</a>
+  版权所有 &copy; 保留所有权利。2023 <a href="https://www.openterface.com">Openterface</a> | <a href="https://www.techxartisan.com">阵匠</a> | 广州比利奥科技有限公司 <br>
+  <a href="">首页</a> |
+  <a href="/terms-of-service">服务条款</a> |
+  <a href="/privacy-policy">隐私政策</a> | 
+  <a href="#__consent">Cookie 设置</a> | 
+  <a href="/contact">联系我们</a>
 
 extra_css:
   - assets/stylesheets/extra.css
