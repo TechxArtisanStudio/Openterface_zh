@@ -16,7 +16,7 @@
 
     下载适用于 Windows 的 Openterface QT 应用程序
 
-    [:octicons-download-24: 下载 v0.0.3](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/v0.0.3/openterfaceQT.windows.amd64.exe)  <br>
+    [:octicons-download-24: 下载 {{qt_version}}](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/{{qt_version}}/openterfaceQT.windows.amd64.exe)  <br>
     [:octicons-mark-github-16: Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT)  <br>
     [:octicons-play-24: 观看演示](https://youtu.be/ERzpGtRvP2o?si=e9k402f0nxsD8o2j)
 
@@ -43,9 +43,10 @@
 
     ---
 
-    Android 版本正在开发中
+    下载适用于Android手机或平板的APK
 
-    [:octicons-clock-24: 敬请期待](https://github.com/TechxArtisanStudio/Openterface_Android)  <br>
+    [:octicons-download-24: 下载 {{qt_version}}](https://github.com/TechxArtisanStudio/Openterface_Android/releases/download/{{android_version}}/OpenterfaceAndroid.apk)  <br>
+    [:octicons-mark-github-16: Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android)  <br>
     [:octicons-play-24: 观看演示](https://x.com/TechxArtisan/status/1825460088922071398)
 
 </div>
