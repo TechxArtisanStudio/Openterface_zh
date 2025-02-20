@@ -6,7 +6,7 @@ categories:
   - 更新
 ---
 
-# 清理积压、更新设备和更多时间来构建USB KVM！
+# 清空发货名单、更新设备和更多时间来构建USB KVM！
 
 **大家好，Openterface大家庭！**
 
