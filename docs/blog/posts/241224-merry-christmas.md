@@ -8,7 +8,7 @@ categories:
 
 # 圣诞快乐 & 新年快乐 & 来自Openterface团队的小礼物！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wEWAhXCXQ1E?si=RU4QVXxP_Fi6WAu_" title="YouTube视频播放器" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/wEWAhXCXQ1E?si=RU4QVXxP_Fi6WAu_" title="YouTube视频播放器" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 大家好，
 

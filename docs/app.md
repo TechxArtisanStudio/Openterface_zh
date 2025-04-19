@@ -3,7 +3,7 @@
 ## 主机应用程序
 
 <div class="container">
-    <img src="/images/product/win_qt_app.webp" alt="Poster Image" class="poster-image-shadow">
+    <img src="/images/product/win_qt_app.webp" alt="Poster Image" class="poster-image-shadow" loading="lazy">
 </div>
 
 要使用这个 mini-KVM，主机电脑必须安装以下其中一个主机应用程序。
