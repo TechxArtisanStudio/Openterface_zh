@@ -4,7 +4,7 @@
 
 ## VGA 转 HDMI 转换线
 
-![CABLE100-VGA2HDMI](https://assets.openterface.com/images/product/part//CABLE100-VGA2HDMI-1.jpg){:style="height:360px"}
+![CABLE100-VGA2HDMI](https://assets.openterface.com/images/product/part/CABLE100-VGA2HDMI-1.jpg){:style="height:360px"}
 
 此产品将 VGA 视频和音频整合到 HDMI 中，方便将 VGA 设备连接到 HDMI 显示器。
 
@@ -27,7 +27,7 @@
 
 ## Type-C 转 USB-A 线缆及适配器
 
-![C2A-30-Cable](https://assets.openterface.com/images/product/part//OP-04-CABLE30-C2A.jpg){:style="height:360px"}
+![C2A-30-Cable](https://assets.openterface.com/images/product/part/OP-04-CABLE30-C2A.jpg){:style="height:360px"}
 
 这款多功能 Type-C 公对 USB-A 公线缆，配有 USB-A 母对 USB-C 公适配器，提供灵活的目标设备连接。无论目标设备使用 USB-A 还是 Type-C 接口，它都能实现数据传输和键盘鼠标控制信号的传输。
 
@@ -40,7 +40,7 @@
 
 ## Type-C 对 Type-C 线缆及适配器
 
-![C2C-150-Cable](https://assets.openterface.com/images/product/part//OP-05-CABLE150-C2C.jpg){:style="height:360px"}
+![C2C-150-Cable](https://assets.openterface.com/images/product/part/OP-05-CABLE150-C2C.jpg){:style="height:360px"}
 
 这款时尚且手感柔软的 Type-C 公对公线缆，采用亮橙色设计，适用于主机连接。配有 USB-C 母对 USB-A 公适配器，确保您可以连接使用 Type-C 或 USB-A 接口的主机。此外，此线缆支持 **240W 快速充电**（电压 DC50V，电流 5A，功率 240W），不仅适用于我们的 Mini-KVM，还适用于为手机或笔记本电脑快速充电。
 
@@ -53,7 +53,7 @@
 
 ## HDMI 公对公线缆
 
-![HDMI-Cable](https://assets.openterface.com/images/product/part//OP-03-CABLE30-HDMI.jpg){:style="height:360px"}
+![HDMI-Cable](https://assets.openterface.com/images/product/part/OP-03-CABLE30-HDMI.jpg){:style="height:360px"}
 
 这款紧凑的 HDMI 线缆非常适合将目标设备连接到 Mini-KVM，以捕获视频输出，确保与 Openterface Mini-KVM 的无缝集成。
 
@@ -65,7 +65,7 @@
 
 ## Openterface 工具包
 
-![Toolkit-bag](https://assets.openterface.com/images/product/part//OP-06-BAG-TOOLKIT.jpg){:style="height:360px"}
+![Toolkit-bag](https://assets.openterface.com/images/product/part/OP-06-BAG-TOOLKIT.jpg){:style="height:360px"}
 
 使用这个紧凑的工具包，保持您的 Openterface Mini-KVM 及其配件整齐有序。配有时尚的橙色拉链和弹性网袋，这个包确保了出色的线缆管理和便携性，非常适合外出工作的 IT 专业人士。
 
@@ -77,7 +77,7 @@
 
 ## 扩展针帽
 
-![pin-cap](https://assets.openterface.com/images/product/part//pin-cap.jpg){:style="height:360px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:360px"}
 
 这个 3D 打印的扩展针帽替换了 Openterface Mini-KVM 的原始针帽，允许高级用户暴露和访问扩展针进行自定义开发。您可以从我们的 GitHub 仓库下载 3D 模型文件并自行打印针帽。
 
