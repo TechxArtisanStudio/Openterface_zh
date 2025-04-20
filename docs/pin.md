@@ -1,7 +1,7 @@
 # 扩展引脚指南
 
-![change-cap](images/product/change-cap.svg#only-light){:style="height:300px"}
-![change-cap](images/product/change-cap_1.svg#only-dark){:style="height:300px"}
+![change-cap](https://assets.openterface.com/images/product/change-cap.svg#only-light){:style="height:300px"}
+![change-cap](https://assets.openterface.com/images/product/change-cap_1.svg#only-dark){:style="height:300px"}
 
 Openterface Mini-KVM 具有用于高级开发和[开放软件](/app)实验的扩展引脚。这些引脚在标准外壳配置中不可见。
 
@@ -21,10 +21,10 @@ Openterface Mini-KVM 具有用于高级开发和[开放软件](/app)实验的扩
 
 ### 引脚布局
 
-![target-side](images/product/extension-pins-1.svg#only-light){:style="height:200px"}
-![host-side](images/product/extension-pins-2.svg#only-light){:style="height:200px"}
-![target-side](images/product/extension-pins-1_1.svg#only-dark){:style="height:200px"}
-![host-side](images/product/extension-pins-2_1.svg#only-dark){:style="height:200px"}
+![target-side](https://assets.openterface.com/images/product/extension-pins-1.svg#only-light){:style="height:200px"}
+![host-side](https://assets.openterface.com/images/product/extension-pins-2.svg#only-light){:style="height:200px"}
+![target-side](https://assets.openterface.com/images/product/extension-pins-1_1.svg#only-dark){:style="height:200px"}
+![host-side](https://assets.openterface.com/images/product/extension-pins-2_1.svg#only-dark){:style="height:200px"}
 
 扩展引脚提供以下连接：
 

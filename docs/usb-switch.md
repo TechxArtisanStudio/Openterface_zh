@@ -1,7 +1,7 @@
 # 可切换USB端口机制
 
-![switch-graphics](images/product/switch-graphics.svg#only-light){:style="width:460px"}
-![switch-graphics](images/product/switch-graphics_1.svg#only-dark){:style="width:460px"}
+![switch-graphics](https://assets.openterface.com/images/product/switch-graphics.svg#only-light){:style="width:460px"}
+![switch-graphics](https://assets.openterface.com/images/product/switch-graphics_1.svg#only-dark){:style="width:460px"}
 
 这个迷你KVM设备具有一个可切换的USB-A 2.0端口，可以在主机和目标计算机之间切换，但不能同时连接。这一功能由物理拨动开关和主机应用程序中的软件开关共同控制。本文档解释了这些开关的机制和逻辑。
 

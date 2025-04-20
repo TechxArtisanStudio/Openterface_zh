@@ -4,14 +4,14 @@
 
 ## 套餐1：基础包
 
-![basic-pack](images/product/basic-with-maunal.jpg){:style="width:680px"}
+![basic-pack](https://assets.openterface.com/images/product/basic-with-maunal.jpg){:style="width:680px"}
 
 1. 核心产品：Openterface Mini-KVM
 2. 快速入门指南
 
 ## 套餐2：工具包
 
-![toolkit-open](images/product/toolkit-open.jpg){:style="width:680px"}
+![toolkit-open](https://assets.openterface.com/images/product/toolkit-open.jpg){:style="width:680px"}
 
 1. 核心产品：Openterface Mini-KVM
 2. 快速入门指南
@@ -21,4 +21,4 @@
 6. Type-C 公对 USB-A 公线 (0.3m) 及 USB-A 母对 USB-C 公转接头
 7. Type-C 公对公线 (1.5m) 及 USB-C 母对 USB-A 公转接头
 
-![toolkit-parts-layout-2-numbers](images/product/toolkit-parts-layout-2-numbers.jpg){:style="width:680px"}
+![toolkit-parts-layout-2-numbers](https://assets.openterface.com/images/product/toolkit-parts-layout-2-numbers.jpg){:style="width:680px"}

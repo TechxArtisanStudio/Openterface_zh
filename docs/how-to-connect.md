@@ -2,13 +2,13 @@
 
 ## 接口
 
-![host-side](images/product/host-htc.svg#only-light){:style="width:360px"}
+![host-side](https://assets.openterface.com/images/product/host-htc.svg#only-light){:style="width:360px"}
 
-![target-side](images/product/target-htc.svg#only-light){:style="width:360px"}
+![target-side](https://assets.openterface.com/images/product/target-htc.svg#only-light){:style="width:360px"}
 
-![host-side](images/product/host-htc_1.svg#only-dark){:style="width:360px"}
+![host-side](https://assets.openterface.com/images/product/host-htc_1.svg#only-dark){:style="width:360px"}
 
-![target-side](images/product/target-htc_1.svg#only-dark){:style="width:360px"}
+![target-side](https://assets.openterface.com/images/product/target-htc_1.svg#only-dark){:style="width:360px"}
 
 ① ![Type-C to Host](images/shell-icons/host.svg#only-light){:style="height:15px"} ![Type-C to Host](images/shell-icons/host_1.svg#only-dark){:style="height:15px"} - **主机 USB-C 端口** (母口): 作为 USB 设备端口，通过内置 USB 集线器连接到主机电脑进行数据传输
 
@@ -27,8 +27,8 @@
 
 ## 连接步骤
 
-![to-host](images/product/to-host.svg#only-light){:style="height:260px"} ![to-host](images/product/to-host_1.svg#only-dark){:style="height:260px"}
-![to-target](images/product/to-target.svg#only-light){:style="height:260px"} ![to-target](images/product/to-target_1.svg#only-dark){:style="height:260px"}
+![to-host](https://assets.openterface.com/images/product/to-host.svg#only-light){:style="height:260px"} ![to-host](https://assets.openterface.com/images/product/to-host_1.svg#only-dark){:style="height:260px"}
+![to-target](https://assets.openterface.com/images/product/to-target.svg#only-light){:style="height:260px"} ![to-target](https://assets.openterface.com/images/product/to-target_1.svg#only-dark){:style="height:260px"}
 
 要设置您的 Mini-KVM，请按以下步骤操作：
 

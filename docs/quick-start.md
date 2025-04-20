@@ -1,6 +1,6 @@
 # 快速入门
 
-![basic-two-angled](images/product/basic-two-angled.jpg){:style="max-height:420px"}
+![basic-two-angled](https://assets.openterface.com/images/product/basic-two-angled.jpg){:style="max-height:420px"}
 
 我们的 **Openterface™ Mini-KVM** 让你可以通过 USB 和 HDMI 连接，直接从笔记本或台式机控制附近的无头电脑，无需额外的外设或网络连接。在整个文档中，我们将你的控制笔记本或台式机称为 **主机** ( ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](images/shell-icons/host_1.svg#only-dark){:style="height:15px"} )，被控制的设备称为 **目标设备** ( ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![Target](images/shell-icons/target.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"} ![Target](images/shell-icons/target_1.svg#only-dark){:style="height:18px"} )。
 

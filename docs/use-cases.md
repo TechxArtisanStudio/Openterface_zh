@@ -23,7 +23,7 @@
 ## ***安全操作***
 对于需要网络隔离的任务管理人员，如管理加密货币资产的专业人士，这款产品对于保持安全的本地操作是不可或缺的。
 
-![use-case-demo-industrial-pc](images/product/use-case-demo-industrial-pc.jpg)
+![use-case-demo-industrial-pc](https://assets.openterface.com/images/product/use-case-demo-industrial-pc.jpg)
 
 ## ***高效的混合工作流整合***
 经常在个人和工作电脑之间切换，或管理边缘计算设备的用户，将受益于Openterface Mini-KVM提供的简化工作流整合。
