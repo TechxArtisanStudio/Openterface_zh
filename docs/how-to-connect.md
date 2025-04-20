@@ -10,20 +10,20 @@
 
 ![target-side](https://assets.openterface.com/images/product/target-htc_1.svg#only-dark){:style="width:360px"}
 
-① ![Type-C to Host](images/shell-icons/host.svg#only-light){:style="height:15px"} ![Type-C to Host](images/shell-icons/host_1.svg#only-dark){:style="height:15px"} - **主机 USB-C 端口** (母口): 作为 USB 设备端口，通过内置 USB 集线器连接到主机电脑进行数据传输
+① ![Type-C to Host](https://assets.openterface.com/images/shell-icons/host.svg#only-light){:style="height:15px"} ![Type-C to Host](https://assets.openterface.com/images/shell-icons/host_1.svg#only-dark){:style="height:15px"} - **主机 USB-C 端口** (母口): 作为 USB 设备端口，通过内置 USB 集线器连接到主机电脑进行数据传输
 
-② ![Type-C to Target](images/shell-icons/target.svg#only-light){:style="height:18px"} ![Type-C to Target](images/shell-icons/target_1.svg#only-dark){:style="height:18px"} - **目标 USB-C 端口** (母口): 作为 USB 设备端口，通过内置 USB 集线器连接到主机电脑，用于模拟键盘和鼠标 HID 输出
+② ![Type-C to Target](https://assets.openterface.com/images/shell-icons/target.svg#only-light){:style="height:18px"} ![Type-C to Target](https://assets.openterface.com/images/shell-icons/target_1.svg#only-dark){:style="height:18px"} - **目标 USB-C 端口** (母口): 作为 USB 设备端口，通过内置 USB 集线器连接到主机电脑，用于模拟键盘和鼠标 HID 输出
 
-③ ![HDMI Input](images/shell-icons/input.svg#only-light){:style="height:18px"} ![HDMI Input](images/shell-icons/input_1.svg#only-dark){:style="height:18px"} - **HDMI 输入端口** (母口): 从目标电脑接收 HDMI 信号输入
+③ ![HDMI Input](https://assets.openterface.com/images/shell-icons/input.svg#only-light){:style="height:18px"} ![HDMI Input](https://assets.openterface.com/images/shell-icons/input_1.svg#only-dark){:style="height:18px"} - **HDMI 输入端口** (母口): 从目标电脑接收 HDMI 信号输入
 
-④ ![USB-A Port](images/shell-icons/switchable-usb.svg#only-light){:style="height:26px"} ![USB-A Port](images/shell-icons/switchable-usb_1.svg#only-dark){:style="height:26px"} - **可切换 USB-A 2.0 端口** (母口): 作为 USB 主机端口，可在主机电脑和目标电脑之间切换使用，但不能同时使用。
+④ ![USB-A Port](https://assets.openterface.com/images/shell-icons/switchable-usb.svg#only-light){:style="height:26px"} ![USB-A Port](https://assets.openterface.com/images/shell-icons/switchable-usb_1.svg#only-dark){:style="height:26px"} - **可切换 USB-A 2.0 端口** (母口): 作为 USB 主机端口，可在主机电脑和目标电脑之间切换使用，但不能同时使用。
 
 !!! warning "紧密配合"
     请注意，这个 USB-A 母口设计有锁定机制，插拔 USB 设备时需要稍微用力。
 
-⑤ ![Toggle Switch](images/shell-icons/toggle-h-t.svg#only-light){:style="height:20px"} ![Toggle Switch](images/shell-icons/toggle-h-t_1.svg#only-dark){:style="height:20px"} - **切换开关**: 用于在主机和目标电脑之间切换 USB-A 2.0 端口的连接
+⑤ ![Toggle Switch](https://assets.openterface.com/images/shell-icons/toggle-h-t.svg#only-light){:style="height:20px"} ![Toggle Switch](https://assets.openterface.com/images/shell-icons/toggle-h-t_1.svg#only-dark){:style="height:20px"} - **切换开关**: 用于在主机和目标电脑之间切换 USB-A 2.0 端口的连接
 
-⑥ ![Extension Pins](images/shell-icons/pins.svg#only-light){:style="height:15px"} ![Extension Pins](images/shell-icons/pins_1.svg#only-dark){:style="height:15px"} - **扩展针脚**: 更多信息请查看 [扩展针脚](/extension-pin) 供开发者使用。
+⑥ ![Extension Pins](https://assets.openterface.com/images/shell-icons/pins.svg#only-light){:style="height:15px"} ![Extension Pins](https://assets.openterface.com/images/shell-icons/pins_1.svg#only-dark){:style="height:15px"} - **扩展针脚**: 更多信息请查看 [扩展针脚](/extension-pin) 供开发者使用。
 
 ## 连接步骤
 
