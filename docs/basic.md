@@ -1,6 +1,6 @@
 # 基本控制
 
-![use-case-pc-angled-view](https://assets.openterface.com/images/product/use-case-pc-angled-view.jpg)
+![use-case-pc-angled-view](https://assets.openterface.com/images/product/use-case-pc-angled-view.webp)
 
 ## 💻 兼容性
 
