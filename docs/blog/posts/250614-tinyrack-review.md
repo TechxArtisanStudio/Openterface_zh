@@ -14,13 +14,13 @@ keywords: "Openterface, Mini-KVM, TinyRack, South Korea, open source hardware, U
 接下来的事情超出了我们的预期。
 
 他不仅对mini-KVM进行了全面测试，还花时间写了一篇充满见解的详细文章：
-👉 [阅读完整评测](https://tinyrack.kr/review/openterface)
+👉 [阅读完整评测](https://tinyrack.net/openterface-mini-kvm)
 
 他的反馈尖锐、建设性，并且基于实际使用。这对我们来说非常宝贵。虽然我们并不完全同意每个观点，但这正是其价值所在。它促使我们重新审视一些设计假设，并确认了我们的正确之处。如果你感兴趣，请向下滚动查看完整对话。
 
 如果你还没有关注他：
 - 🎥 [YouTube频道](https://youtube.com/@tinyrack)
-- 💬 [社区论坛](https://forum.tinyrack.kr)
+- 💬 [社区论坛](https://forum.tinyrack.net)
 
 这种对话正是帮助像我们这样的工具不断进化的动力。所以感谢你，TinyRack，我们听到了你的声音。
 
