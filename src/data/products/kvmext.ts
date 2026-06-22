@@ -1,71 +1,106 @@
 import { docsPath, siteConfig } from '../../config/site';
 import type { Product } from '../products';
 
-const KVMEXT_SHOP =
-  'https://shop.techxartisan.com/products/openterface-kvm-ext-for-uconsole';
-
 /**
- * KVM Extension (uConsole) marketing payload — Phase 1F flat landing at /kvmext/.
+ * KVM Extension Module v2 (uConsole) marketing payload — flat landing at /kvmext/.
  * Sourced from docs/products/kvmext/ (index, features).
  */
 export const kvmextProduct: Product = {
   slug: 'uconsole-kvm-extension',
-  title: "uConsole KVM Extension",
-  slogan: "为您的 uConsole 注入 KVM 能量",
-  subtitle: "将便携式 uConsole 转化为功能齐全的 KVM 终端。",
-  status: 'oshwa',
+  title: 'Openterface uConsole KVM Extension Module v2',
+  slogan: 'Transform Your uConsole into a Portable KVM Console',
+  subtitle: 'KVM. Network. SD Card. One Expansion Slot.',
+  status: 'shipping',
   description:
-    "为 Clockwork uConsole 增加 KVM-over-USB 功能的硬件扩展。内置键盘 and 显示屏，是便携式 IT 工作的理想选择。",
+    'Extension Module v2 plugs into your Clockwork uConsole expansion slot with HDMI KVM, dual Ethernet (100M + 1000M cards included), SD card read/write, and USB 2.0 switching — powered from the slot with no external adapter.',
   seoDescription:
-    "uConsole KVM Extension 为 Clockwork uConsole 便携式计算机添加了 KVM-over-USB 功能。",
+    'Openterface uConsole KVM Extension Module v2: portable KVM console, dual Ethernet, SD card utility, 1080p @ 60 Hz, under 70 ms latency. Order from TechxArtisan Shop.',
   keywords:
-    "uConsole, KVM extension, portable KVM, Clockwork uConsole",
-  heroImage:
-    'https://assets.openterface.com/images/cover/uconsole.webp',
+    'uConsole KVM v2, KVM extension, portable KVM, Clockwork uConsole, Ethernet expansion, SD card, HDMI KVM, USB HID, headless control',
+  heroImage: 'https://assets.openterface.com/images/product/kvmext-v2/kvmext-v2-hero-1.webp',
   heroImages: [
-    'https://assets.openterface.com/images/cover/uconsole.webp',
-    'https://assets.openterface.com/images/product/openterface-kvm-uconsole-extension.webp',
+    'https://assets.openterface.com/images/product/kvmext-v2/kvmext-v2-hero-1.webp',
+    'https://assets.openterface.com/images/product/kvmext-v2/kvmext-v2-use-case-1.webp',
+    'https://assets.openterface.com/images/product/kvmext-v2/kvmext-v2-pcb-front.webp',
   ],
-  buyLabel: "了解更多",
-  buyHref: KVMEXT_SHOP,
+  buyLabel: 'Order NOW',
+  buyHref: siteConfig.links.kvmextPurchase,
   painPoints: [
-    "便携式控制台缺乏用于控制无头受控端的集成 KVM 功能",
-    "现场技术人员希望一机多用",
+    'Portable consoles lack integrated KVM for headless targets',
+    'Field techs carry monitors, keyboards, and card readers to every site',
+    'Network KVM needs configuration — useless when the target is offline',
   ],
   solutions: [
-    "适配 uConsole 外形的原生扩展板",
-    "在便携设备上运行完整的 Openterface KVM 技术栈",
+    'Native uConsole expansion — screen, keyboard, and trackball built in',
+    'KVM + Ethernet + SD card in one 77.3 × 34.7 mm module',
+    'Direct HDMI + USB HID with no software on the target device',
   ],
   hwFeatures: [
-    { title: "uConsole 原生设计", description: "专为 Clockwork uConsole 量身打造。" },
-    { title: "紧凑型 PCB", description: "可安装在 uConsole 机壳内部。" },
+    {
+      title: 'Direct HDMI + USB HID',
+      description:
+        'View and control targets through the uConsole screen with full keyboard/mouse emulation — BIOS-level access included.',
+    },
+    {
+      title: 'Dual Ethernet cards',
+      description:
+        '100M and 1000M cards included in every box. 100M works on all base boards; 1000M needs the HackerGadgets Upgrade Kit.',
+    },
+    {
+      title: 'SD card read/write',
+      description: 'Flash images, export logs, and transfer files without an external card reader.',
+    },
+    {
+      title: 'USB 2.0 shared switching',
+      description: 'Switch USB storage between uConsole and target via the host app.',
+    },
+    {
+      title: 'Low latency 60 Hz',
+      description: '1080p @ 60 Hz output with under 70 ms latency for responsive maintenance and debug.',
+    },
+    {
+      title: 'OSHWA certified line',
+      description: 'Open Source Hardware Association UID CN000021 — open schematics and host apps.',
+    },
   ],
   swFeatures: [
-    { title: "Openterface 应用", description: "使用与 Mini-KVM 和 KVM-GO 相同且值得信赖的软件。" },
-    { title: "安装指南", description: "提供详尽的硬件和软件安装文档。" },
+    {
+      title: 'Openterface QT on uConsole',
+      description: 'Install on your uConsole for KVM, SD switching, and USB sharing — same stack as Mini-KVM and KVM-GO.',
+    },
+    {
+      title: 'Text transfer',
+      description: 'Send usernames, passwords, and code snippets via simulated keystrokes (ASCII).',
+    },
+    {
+      title: 'Full docs on docs.openterface.com',
+      description: 'Hardware install, Ethernet guide, SD card guide, and troubleshooting walkthroughs.',
+    },
   ],
   specs: [
-    { label: "兼容性", value: "Clockwork uConsole" },
-    { label: "认证", value: "OSHWA certified" },
+    { label: 'Compatibility', value: 'Clockwork uConsole (expansion slot)' },
+    { label: 'Dimensions', value: '77.3 × 34.7 mm' },
+    { label: 'Video input', value: 'Up to 4K @ 30/60 Hz (HDMI)' },
+    { label: 'Video output', value: '1080p @ 60 Hz, <70 ms latency' },
+    { label: 'Network', value: '100M + 1000M cards included' },
+    { label: 'Target software', value: 'None required — plug and play' },
   ],
-  useCases: [
-    "便携式数据中心工具",
-    "移动创客与个人实验室",
-  ],
+  useCases: ['Field IT & network debug', 'SD imaging on the go'],
   useCaseCards: [
     {
-      title: 'Portable datacenter tool',
-      description: 'Walk racks with your uConsole — one device for display, keyboard, and KVM.',
-      href: docsPath('/products/kvmext/'),
+      title: 'Field IT & network debug',
+      description: 'KVM for BIOS access plus Ethernet for SSH and web management — one pocketable device.',
+      href: docsPath('/products/kvmext/use-cases/'),
     },
     {
-      title: 'Maker & homelab on the go',
-      description: 'Configure headless SBCs, NAS nodes, and lab gear from a pocketable console.',
+      title: 'SD imaging on the go',
+      description: 'Write OS images and move logs from your uConsole without a separate card reader.',
+      href: docsPath('/products/kvmext/sd-card/'),
+    },
+    {
+      title: 'Homelab & embedded debug',
+      description: 'Configure headless SBCs and lab gear from the uConsole you already carry.',
       href: docsPath('/products/kvmext/features/'),
-    },
-    {
-      title: 'Field IT & MSP visits',
-      description: 'BIOS access and quick fixes without hauling a crash cart.',
     },
     {
       title: 'Network-free troubleshooting',
@@ -73,20 +108,36 @@ export const kvmextProduct: Product = {
       href: docsPath('/products/kvmext/connect-to-target/'),
     },
   ],
-  useCasesDocsHref: docsPath('/products/kvmext/'),
+  socialProofTitle: 'What early users say',
+  socialProof: [
+    {
+      quote: 'Works flawlessly and makes the uConsole really useful!',
+      author: 'Verified buyer',
+      source: 'TechxArtisan Shop',
+    },
+    {
+      quote: 'A mandatory add-on for the IT pro. No more looking for a monitor or keyboard!',
+      author: 'Verified buyer',
+      source: 'TechxArtisan Shop',
+    },
+  ],
+  useCasesDocsHref: docsPath('/products/kvmext/use-cases/'),
   specsDocsHref: docsPath('/products/kvmext/features/'),
   docsOverviewHref: docsPath('/products/kvmext/'),
   videoProductSlug: 'uconsole-kvm-extension',
   videoSectionTitle: 'Installation & community demos',
-  latestNewsHref: `${siteConfig.links.news}/products/kvmext/2025-08-28-oshwa-certification/`,
-  latestNewsTitle: 'OSHWA certification achieved',
-  latestNewsSubtitle: 'Official Open Source Hardware Association certification for the uConsole KVM Extension.',
+  latestNewsHref: `${siteConfig.links.news}/products/kvmext/2026-06-22-extension-module-v2-launch/`,
+  latestNewsTitle: 'Extension Module v2 now shipping',
+  latestNewsSubtitle:
+    'Dual Ethernet, SD card, 60 Hz output — the next-generation uConsole KVM expansion is available now.',
   latestNewsLabel: 'Read on Openterface News →',
   docLinks: [
-    { label: "硬件安装", href: docsPath("/product/uconsole-kvm-extension/hardware-installation/") },
-    { label: "软件设置", href: docsPath("/product/uconsole-kvm-extension/software-setup/") },
-    { label: "连接指南", href: docsPath("/product/uconsole-kvm-extension/connect-to-target/") },
-    { label: "常见问题", href: docsPath("/product/uconsole-kvm-extension/faq/") },
+    { label: 'Features', href: docsPath('/products/kvmext/features/') },
+    { label: 'Ethernet Guide', href: docsPath('/products/kvmext/ethernet/') },
+    { label: 'SD Card Guide', href: docsPath('/products/kvmext/sd-card/') },
+    { label: 'Purchase Options', href: docsPath('/products/kvmext/purchase-options/') },
+    { label: 'Hardware Installation', href: docsPath('/products/kvmext/hardware-installation/') },
+    { label: 'FAQs', href: docsPath('/products/kvmext/faq/') },
   ],
-  legacyBase: "/products/uconsole-kvm-extension/",
+  legacyBase: '/products/kvmext/',
 };
