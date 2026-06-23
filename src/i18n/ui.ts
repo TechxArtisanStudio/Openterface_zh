@@ -17,6 +17,18 @@ export interface MarketingUi {
     emailPlaceholder: string;
     footnote: string;
   };
+  productSubscribe: {
+    kicker: string;
+    heading: string;
+    description: string;
+    benefitCrowdfunding: string;
+    benefitGuides: string;
+    benefitUnsubscribe: string;
+    submitLabel: string;
+    namePlaceholder: string;
+    emailPlaceholder: string;
+    footnote: string;
+  };
   siteFooter: {
     tagline: string;
     productsHeading: string;
@@ -29,6 +41,7 @@ export interface MarketingUi {
     faqs: string;
     apps: string;
     support: string;
+    newsletterLink: string;
     newsletterTitle: string;
     newsletterDescription: string;
     newsletterSubmit: string;
@@ -89,14 +102,15 @@ export const ui: MarketingUi = {
     "apps": "应用",
     "support": "支持",
     "newsletterTitle": "邮件订阅",
-    "newsletterDescription": "每月获取产品、固件与 KVM 技巧更新。",
+    "newsletterDescription": "优先获取发布资讯、每月产品与固件更新及 KVM 技巧 — 每月最多一封邮件。",
     "newsletterSubmit": "订阅",
     "newsletterNamePlaceholder": "姓名",
     "newsletterEmailPlaceholder": "邮箱 *",
     "newsletterFootnote": "随时可取消订阅。",
     "copyright": "Openterface. 开源 KVM-over-USB。",
     "privacy": "隐私政策",
-    "terms": "服务条款"
+    "terms": "服务条款",
+    "newsletterLink": "邮件订阅"
   },
   "productLanding": {
     "downloadApp": "下载应用",
@@ -113,5 +127,17 @@ export const ui: MarketingUi = {
     "documentation": "文档",
     "ctaTitle": "准备好开始了吗？",
     "ctaSubtitle": "订购硬件并下载适用于您平台的 Openterface 应用。"
+  },
+  "productSubscribe": {
+    "kicker": "保持关注",
+    "heading": "获取 {product} 发布与固件更新",
+    "description": "第一时间了解此产品的预购、固件发布和设置技巧 — 每月最多一封邮件。",
+    "benefitCrowdfunding": "众筹和预购窗口的早期访问",
+    "benefitGuides": "设置指南和应用发布说明",
+    "benefitUnsubscribe": "随时一键取消订阅",
+    "submitLabel": "订阅更新",
+    "namePlaceholder": "姓名（可选）",
+    "emailPlaceholder": "邮箱地址 *",
+    "footnote": "每月最多一封邮件。随时可取消订阅。"
   }
 };
