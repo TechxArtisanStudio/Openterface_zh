@@ -453,10 +453,10 @@ export const tw: KeymodLandingStrings = {
       },
     },
     firmwareRoadmap: {
-      eyebrow: "固件路線圖",
+      eyebrow: "路線圖",
       title: "我們下一步要構建什麼",
-      subtitle: "模式和橋接功能首先通過KeyCmd推出，然後落地到KeyMod固件。以下是當前已排期的內容。",
-      chipsLabel: "固件已排期",
+      subtitle: "以下是當前已排期的內容。",
+      chipsLabel: "固件 / 功能已排期",
       chips: [
         "網絡橋接",
         "音頻橋接",
@@ -464,7 +464,7 @@ export const tw: KeymodLandingStrings = {
         "CLI + MCP自動化",
         "遠程中繼",
       ],
-      forumPrompt: "有沒有我們應優先考慮的模式、橋接或工作流程？在Openterface論壇上發帖，與我們的開發團隊和其他構建者交流想法。",
+      forumPrompt: "有沒有特別想要的功能、橋接或工作流？到 Openterface 論壇說一聲。同一需求的人越多，排期往往越靠前。KeyMod 需要和你們一起打磨，才會更好用。",
       forumCta: "在論壇討論 ↗",
       forumNewBadge: "新",
     },
@@ -562,10 +562,11 @@ export const tw: KeymodLandingStrings = {
       ],
     },
     socialProof: {
-      eyebrow: "社区",
+      eyebrow: "社區",
       title: "真實用戶，真實搭建",
       followIg: "關注 @techxartisan 查看更多演示",
       viewAllMedia: "所有 KeyMod 媒體內容",
+      showAllPosts: "顯示全部貼文",
     },
     keycmdBridge: {
       eyebrow: "配套軟件",

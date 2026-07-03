@@ -453,10 +453,10 @@ export const ar: KeymodLandingStrings = {
       },
     },
     firmwareRoadmap: {
-      eyebrow: "خريطة طريق البرامج الثابتة",
+      eyebrow: "Roadmap",
       title: "ما نبنيه بعد ذلك",
-      subtitle: "يتم إطلاق الأنماط والجسور أولاً عبر KeyCmd، ثم تصل إلى البرامج الثابتة لـ KeyMod. إليك ما هو مدرج في قائمة الانتظار اليوم.",
-      chipsLabel: "في قائمة الانتظار للبرامج الثابتة",
+      subtitle: "إليك ما هو مدرج في قائمة الانتظار اليوم.",
+      chipsLabel: "في قائمة الانتظار: البرمجيات / الميزات",
       chips: [
         "جسر الشبكة",
         "جسر الصوت",
@@ -464,7 +464,7 @@ export const ar: KeymodLandingStrings = {
         "أتمتة CLI + MCP",
         "مرحّل بعيد",
       ],
-      forumPrompt: "هل لديك نمط أو جسر أو سير عمل يجب أن نعطيه الأولوية؟ انشر في منتدى Openterface وتبادل الأفكار مع فريق التطوير والمطورين الآخرين.",
+      forumPrompt: "هل لديك وضع أو جسر أو سير عمل تريده حقًا؟ اكتب في منتدى Openterface. إذا طلبه كثير من المطورين، غالبًا ما يرتفع في الأولوية. KeyMod يتحسّن عندما نبنيه معكم.",
       forumCta: "ناقش في المنتدى ↗",
       forumNewBadge: "جديد",
     },
@@ -562,10 +562,11 @@ export const ar: KeymodLandingStrings = {
       ],
     },
     socialProof: {
-      eyebrow: "社区",
+      eyebrow: "المجتمع",
       title: "مستخدمون حقيقيون، إعدادات حقيقية",
       followIg: "مزيد من العروض التوضيحية على @techxartisan",
       viewAllMedia: "جميع وسائط KeyMod",
+      showAllPosts: "عرض جميع المنشورات",
     },
     keycmdBridge: {
       eyebrow: "الرفيق البرمجي",

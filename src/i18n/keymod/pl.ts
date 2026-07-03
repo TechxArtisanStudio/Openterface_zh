@@ -453,10 +453,10 @@ export const pl: KeymodLandingStrings = {
       },
     },
     firmwareRoadmap: {
-      eyebrow: "Plan rozwoju firmware",
+      eyebrow: "Roadmap",
       title: "Co budujemy dalej",
-      subtitle: "Tryby i mostki są najpierw udostępniane przez KeyCmd, a następnie trafiają do firmware KeyMod. Oto co mamy obecnie w kolejce.",
-      chipsLabel: "W kolejce do firmware",
+      subtitle: "Oto co mamy obecnie w kolejce.",
+      chipsLabel: "W kolejce: firmware / funkcje",
       chips: [
         "Mostek sieciowy",
         "Mostek audio",
@@ -464,7 +464,7 @@ export const pl: KeymodLandingStrings = {
         "Automatyzacja CLI + MCP",
         "Zdalny przekaźnik",
       ],
-      forumPrompt: "Masz pomysł na tryb, mostek lub workflow, który powinniśmy potraktować priorytetowo? Napisz na forum Openterface i wymień się pomysłami z naszym zespołem deweloperskim i innymi twórcami.",
+      forumPrompt: "Masz tryb, mostek lub workflow, którego naprawdę chcesz? Napisz na forum Openterface. Jeśli o to prosi wielu, zwykle trafia wyżej na liście. KeyMod działa lepiej, gdy budujemy go razem z wami.",
       forumCta: "Dyskutuj na forum ↗",
       forumNewBadge: "Nowe",
     },
@@ -562,10 +562,11 @@ export const pl: KeymodLandingStrings = {
       ],
     },
     socialProof: {
-      eyebrow: "社区",
+      eyebrow: "Społeczność",
       title: "Prawdziwi użytkownicy, prawdziwe konfiguracje",
       followIg: "Więcej demo na @techxartisan",
       viewAllMedia: "Wszystkie materiały KeyMod",
+      showAllPosts: "Pokaż wszystkie posty",
     },
     keycmdBridge: {
       eyebrow: "Aplikacja towarzysząca",

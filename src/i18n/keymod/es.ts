@@ -453,10 +453,10 @@ export const es: KeymodLandingStrings = {
       },
     },
     firmwareRoadmap: {
-      eyebrow: "Hoja de ruta del firmware",
+      eyebrow: "Roadmap",
       title: "Lo que estamos desarrollando a continuación",
-      subtitle: "Los modos y puentes se lanzan primero a través de KeyCmd y luego se integran en el firmware de KeyMod. Esto es lo que tenemos en cola hoy.",
-      chipsLabel: "En cola para el firmware",
+      subtitle: "Esto es lo que tenemos en cola hoy.",
+      chipsLabel: "En cola: firmware / funciones",
       chips: [
         "Puente de red",
         "Puente de audio",
@@ -464,7 +464,7 @@ export const es: KeymodLandingStrings = {
         "Automatización CLI + MCP",
         "Relé remoto",
       ],
-      forumPrompt: "¿Tienes un modo, puente o flujo de trabajo que deberíamos priorizar? Publica en el foro de Openterface e intercambia ideas con nuestro equipo de desarrollo y otros creadores.",
+      forumPrompt: "¿Hay un modo, puente o flujo que quieras de verdad? Escríbelo en el foro de Openterface. Si muchos lo piden, suele subir en la lista. KeyMod mejora cuando lo construimos contigo.",
       forumCta: "Debatir en el foro ↗",
       forumNewBadge: "Nuevo",
     },
@@ -562,10 +562,11 @@ export const es: KeymodLandingStrings = {
       ],
     },
     socialProof: {
-      eyebrow: "社区",
+      eyebrow: "Comunidad",
       title: "Usuarios reales, configuraciones reales",
       followIg: "Más demos en @techxartisan",
       viewAllMedia: "Todo el contenido multimedia de KeyMod",
+      showAllPosts: "Ver todas las publicaciones",
     },
     keycmdBridge: {
       eyebrow: "Compañero de software",
