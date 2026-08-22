@@ -572,7 +572,22 @@ export const zh: KeymodLandingStrings = {
       cta: "了解 KeyCmd",
       mediaLabel: "KeyCmd 欢迎界面，选择控制模式",
     },
-    crowdSupplyCampaign: {
+    crowdSupplyStats: {
+    eyebrow: 'Campaign progress',
+    title: 'Live on Crowd Supply',
+    ofGoal: 'of {goal} goal',
+    funded: 'Funded',
+    overFunded: 'Stretch goal unlocked!',
+    backers: 'backers',
+    daysLeft: 'days left',
+    updates: 'updates',
+    cta: 'Back the campaign',
+    lastUpdated: 'Updated',
+    updatedJustNow: 'just now',
+    updatedYesterday: 'yesterday',
+    fallbackText: 'Campaign is live on Crowd Supply.',
+  },
+  crowdSupplyCampaign: {
       eyebrow: "Crowd Supply",
       title: "Crowd Supply 已上线",
       body: "在 Crowd Supply 上支持 KeyMod Mini 和 Plus。将手机变成无线控制台的口袋 USB 桥接器。活动进行中。",
